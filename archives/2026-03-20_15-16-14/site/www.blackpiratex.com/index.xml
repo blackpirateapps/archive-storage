@@ -1,0 +1,1384 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on BlackPirateX</title>
+    <link>https://blackpiratex.com/</link>
+    <description>Recent content in Home on BlackPirateX</description>
+    <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 16 Mar 2026 00:26:56 +0530</lastBuildDate><atom:link href="https://blackpiratex.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Thoughts on Epstein Files</title>
+      <link>https://blackpiratex.com/blog/my-thoughts-on-epstein-files/</link>
+      <pubDate>Mon, 16 Mar 2026 00:26:56 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/my-thoughts-on-epstein-files/</guid>
+      <description>&lt;p&gt;I have watched an one hour documentry about epstein files yesterday, and I want to write down my thoughts. This is going to be my first post on politics (can you call it politics? its more of a true crime)&lt;/p&gt;
+&lt;h3 id=&#34;why-do-i-think-they-did-it&#34;&gt;Why do I think they did it?&lt;/h3&gt;
+&lt;p&gt;I believe in the good of the people, I assume that if people do not have any personal reason they will always act in good faith, its only when your own personal agenda comes gets involved people become horrible.
+These rich people have so much money and power that they can do what they want without having to put in any effort, so they have their life on easy mode. But like every people they want to have a thrill, so they do something taboo something illegal. I think for some people the more risky something is the more attractive it becomes.&lt;/p&gt;
+&lt;h3 id=&#34;few-things-that-i-have-noticed&#34;&gt;Few things that I have noticed&lt;/h3&gt;
+&lt;p&gt;Most of the people that were involved with Epstein was from USA and the &amp;ldquo;west&amp;rdquo;. Eastern billionares and political leaders are missing form the Epstein files.
+When I was young I would watch a lot of illuminati videos on youtube. It was conspiracy back then, but based on the documents I do not think it is anymore. The illuminati may not be real but the vibe is there.&lt;/p&gt;
+&lt;h3 id=&#34;why-are-alleged-persons-lying&#34;&gt;Why are alleged persons lying?&lt;/h3&gt;
+&lt;p&gt;Well it is a sad thing to answer. The documents are very lengthly and not everyone has the time to read the actual documents. People who are making the contents of the documents accessible for everyone by making youtube videos or talking about it on the social media they are getting silenced or shadow banned. So very few people know what the contents of the documents are and instead they know what other people are saying they are. The rich and powerful can take advantage of that and keep lying until people start to believe the lie. I do want to research myself, but for the sake of my sanity I wont. I want to believe the world is as good as I thought it is. Ignorance is a bliss.&lt;/p&gt;
+&lt;p&gt;I wanted to become powerful, but seeing what power can do to people I am not sure if I want it anymore.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qute Browser Is the Best Browser</title>
+      <link>https://blackpiratex.com/blog/qute-browser-is-the-best-browser/</link>
+      <pubDate>Sun, 15 Feb 2026 14:06:42 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/qute-browser-is-the-best-browser/</guid>
+      <description>&lt;p&gt;I recently discovered qute browser from a youtube channel, Bread with Penguins and oh my god it is so good. I have been watching her youtube videos lately and thats how I came to know about qute browser. She does these best or lesser known linux apps videos, and I love it.
+The browser is very minimal and the default keybindings are of vimkeys so they are very much easy to use. I love it. It has adblocker and althought it is not as good as uBlock Origin, it is plenty good for normal web browsing. Also I can just set up DNS for my whole laptop and block ads through that.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Setting Up My New Laptop</title>
+      <link>https://blackpiratex.com/blog/setting-up-my-new-laptop/</link>
+      <pubDate>Tue, 10 Feb 2026 01:28:22 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/setting-up-my-new-laptop/</guid>
+      <description>&lt;h1 id=&#34;setting-up-my-new-laptop&#34;&gt;Setting Up My New Laptop&lt;/h1&gt;
+&lt;p&gt;I have bought a new laptop because the old one is broken and it is beyond repair. This new laptop is significantly cheaper than the old one and also does not have the same capabilities as the old one.
+The specifications for this laptop can be seen in the screenshot below.&lt;/p&gt;
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;post-image&#34;&gt;
+    &lt;img src=&#34;https://blackpiratex.com/img/2026-02-10-004542_hyprshot_hu_ccd907a883fac043.webp&#34; width=&#34;1920&#34;  height=&#34;1080&#34;  alt=&#34;/img/2026-02-10-004542_hyprshot.png&#34; loading=&#34;lazy&#34;&gt;
+    
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;installing-linux&#34;&gt;Installing linux&lt;/h3&gt;
+&lt;p&gt;On the very first day of getting this laptop, I have downloaded linux ios, namely omarchy, linux mint and fedora. I used ventoy to to make a bootable drive to my 64GB samsung pen drive. I wanted to have a reliable set it and forget it linux desktop, so I went with Linux Mint.&lt;/p&gt;
+&lt;h3 id=&#34;linux-mint&#34;&gt;Linux Mint&lt;/h3&gt;
+&lt;p&gt;Experience with linux mint was good but there was few issues that was bothering me. Firstly lack of wayland means i cannot have proper fractional scaling. It significantly looked uglier and pixelated. I then found that mint also has an experimental wayland support, I logged out and logged in. But unfortunately some packages do not work smoothly as I would like it to. Brave browser for example was acting weird.&lt;/p&gt;
+&lt;h3 id=&#34;to-hyprland&#34;&gt;To Hyprland&lt;/h3&gt;
+&lt;p&gt;I have tried hyprland before and a huge fan of the animations. It feels smooth and the window manager experience is very good. I missed that. I hate how much time I spend on trying to adjust my window size in linux mint. I have wrote a &lt;a href=&#34;https://blackpiratex.com/blog/why-i-love-wm/&#34;&gt;blog post about this before&lt;/a&gt;. I know I can use i3 window manager but it looks ugly by default. You have to configure it a lot to make it look any good. Whereas the default look of the hyprland is very pretty. In fact I have not touched the hyprland default look till now, just modified some keybindings. I have also &lt;a href=&#34;https://blackpiratex.com/blog/the-hyprland-experience/&#34;&gt;used hyprland in the past&lt;/a&gt;, so it would not be something new. But at the same time I was worried about installing less stable version of linux, that is Arch.&lt;/p&gt;
+&lt;h3 id=&#34;cachy-os&#34;&gt;Cachy OS&lt;/h3&gt;
+&lt;p&gt;It is one of the hottest new linux distribution right now. When I used hyprland back in 2023, I have never heard of it, maybe it didn&amp;rsquo;t exist then. It is based on Arch and has option in the installer to download and setup hyprland. I know I can just go with the vanilla arch, but I did not want to spend time trying to configure my linux distribution, when I can spend that time to configure hyprland and be done with it. It does not matter how preconfigured hyprland comes, I would still have to configure it for my own keybinding and to my own liking. Initially I wanted to install omarchy because it is preconfigured and looks like something a linux nerd would use. But unfortunately the creator of this linux distribution is so opinionated, they did not think of manual partitioning. You have you be crazy not to allow manual partitioning for a linux distro that is meant to be installed by people other than you. But then again linux nerds are not really the one to understand normie&amp;rsquo;s requirements.
+I always dual boot because you do not know when you would need windows for some specific software, or maybe if linux dies I would still have a os to boot into. Certain softwares that I need for example flashing tools for my phone is not available for linux, so I have to use windows at least sometimes.
+Since omarchy is off the table I went with cachy os. It was easy to install but being a network based installer it was slower.&lt;/p&gt;
+&lt;h3 id=&#34;first-and-second-install&#34;&gt;First and Second install&lt;/h3&gt;
+&lt;p&gt;In the first install everything was working fine. I installed cosmic desktop environment and hyprland. At first I did some rice to my hyprland setup and it was almost done. Then my monkey brain wanted something more and get the dopamine hit for making his laptop look pretty. I did went to the hyprland rice in reddit and found some recommendations. I tried to install the HYDE dotfiles for hyprland. It should not be suprising to you but yeah it did not install succssfully. There were some conflicts.
+It was already late at night and I do not want to spend another day trying to mess with my laptop os. So I reinstalled cachy os again. I have my home folder in a different partition so I did not need to worry about losing my files. In this install I went with hyprland and xfce. I need a desktop environment just because even if i do not setup my hyprland I can still modify basic settings. This time I am more careful and ricing slowly one by one. I am not going to run any premade scripts for ricing. Just all one by one by hand.&lt;/p&gt;
+&lt;h3 id=&#34;my-setup-so-far&#34;&gt;My Setup So Far&lt;/h3&gt;
+&lt;p&gt;I am using hyprland with waybar. For menu I am using rofi. For passowords I am using keepmenu with rofi. For wallpaper hyprpaper is enough for me.
+For all the apps and programs I use I would make a &lt;a href=&#34;https://blackpiratex.com/useage&#34;&gt;useage&lt;/a&gt; page later.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Experience With Meditation</title>
+      <link>https://blackpiratex.com/blog/my-experience-with-meditation/</link>
+      <pubDate>Tue, 13 Jan 2026 18:10:37 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/my-experience-with-meditation/</guid>
+      <description>&lt;p&gt;The motivation for meditation did not come from a book or a youtube video, it came from within me, my desire to get rid of those dreams I was getting so much. Earlier I would get those vivid dreams sometimes and they would be lucid sometimes, but after I left home and started living on my own, they started to become very frequent. I do not think I am less happy now that I am out of my house, but it definitely triggered something. I do not know exactly when this started but it did after I left home and came to Bankura. Enough self diagnosing, lets talk about what&amp;rsquo;s relevant.&lt;/p&gt;
+&lt;h3 id=&#34;why&#34;&gt;Why&lt;/h3&gt;
+&lt;p&gt;I tried many thing to get rid of my dreams, changing diets, fixing sleep schdule and other parts of my lifestyle. I have a basic idea of things that are associated with these dreams, and it was coffee (there is another thing also, but due to privacy reasons I am not going to mention it here). I searched on the web for it and sure there were some reports of it. But the worrying thing is I would also get dreams when I did not drink coffee. It was more frequent if I drank coffee. When I fell asleep while listening to music then the dream might not come. I was desperate to find a better solution.&lt;/p&gt;
+&lt;h3 id=&#34;how&#34;&gt;How&lt;/h3&gt;
+&lt;p&gt;That is when I was watching classes from parmar sir, (parmar ssc youtube channel). There he would often talk about meditation and taking deep breath. I wanted to try it. My problem was not a physical one but something to do with my brain, I had to try it. I also heard about meditation from senior people around me and how I should do it before studying to better remember stuff. But it is awkward to do.&lt;/p&gt;
+&lt;h3 id=&#34;results&#34;&gt;Results&lt;/h3&gt;
+&lt;p&gt;I know I had to do it for at least a week or so before I can see any results. I persisted and yes it worked. I was feeling estatic. That time I was doing it for almost everyday. Although I did not track the amount of time I was meditating it was in the ballpark of 5-10 minutes. Now my dreams are almost completely gone, I do get it sometimes if I do not meditate for  a long time, but the intensity and frequency of the dream has significantly reduced. I am continuing this habit. i have to be alone in a room when I do this otherwise I wont be able to concentrate. It is also awkward to do in front of other people as meditation is not very common among people.&lt;/p&gt;
+&lt;h3 id=&#34;tips&#34;&gt;Tips&lt;/h3&gt;
+&lt;p&gt;If you are at the end of this post and still reading this, I have a suggestion for you. Give it a shot. It does not take much time only like 5-10 minutes and it will improve your mental health. I am not going to say it is panacea, but I get it now why leaders like Nehru used to practice meditation. Here is some of my tips in no particular order  if you are a beginner.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It is okay to feel awkward, everyone feels it.&lt;/li&gt;
+&lt;li&gt;Do not fight with your own thoughts, rather than think of it and slowly let is pass. There will be time when you wont be aware that you are thinking something else, but when you become aware shrug it off.&lt;/li&gt;
+&lt;li&gt;Focus on your breathing, take deep breaths. ( you can watch youtube videos for guidence)&lt;/li&gt;
+&lt;li&gt;Continue this habit for at least 7 days.&lt;/li&gt;
+&lt;li&gt;Make sure to notice the state of mind you are in after 7 days, if you do not notice the change you are never going to continue.&lt;/li&gt;
+&lt;li&gt;Do not listen to music or anything, if you cannot get complete silence put on white noises and headphones. After a while you will feel silence.&lt;/li&gt;
+&lt;li&gt;Do not make excuses for not doing.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How I Use AI in Studies</title>
+      <link>https://blackpiratex.com/blog/how-i-use-ai-in-studies/</link>
+      <pubDate>Mon, 05 Jan 2026 22:54:00 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/how-i-use-ai-in-studies/</guid>
+      <description>&lt;p&gt;Unlike most Tech youtubers i do not think AI is useless. It is far from being useless. I think these techtubers are so confined to their own little worlds that they lack the imagination of what can be done in other areas of life.  Specially for a low skilled person like me it has been useful so far for me. From the last year I have been using ai in different parts of my life. I want to talk about how I have integrated AI in my studies in this blog post.&lt;/p&gt;
+&lt;h3 id=&#34;anki-flashcards&#34;&gt;Anki Flashcards&lt;/h3&gt;
+&lt;p&gt;AI has changed the workflow for my studies. The very first time I used ai for anything useful was to make anki flashcards quicker. I still use ai to make flashcards. I remember when for the first time I found out about Anki, I wanted to use it. But Anki is not very beginner friendly, you have to make your own cards (sure cards can be downloaded but that is not the point). It may not take long to type for a veteran anki user from their source materials, but for someone who is newbie and does not want to do tedious work (me), AI has helped a lot. I usually upload a mcq book or one liner informations as a pdf or text, then ask the AI agent to make flashcards for me. I ask it to generate a csv file with pipe seperator without any quotation marks.  It makes the file for me to copy and import into anki. If I have a very big file like a book pdf, then I extract the text first, then do it in multiple batches. Sure it takes little bit time but come on its much better than typing by hand. Now I can see you typing fast in the comments saying, you do not need ai for that you can do it by a script. Technically yes, but books do not have a single format so any script you make will probably break for the next book. Also it will take time to write the script and test it, and at that point you should just type by hand.&lt;/p&gt;
+&lt;h3 id=&#34;notebooklm&#34;&gt;NotebookLM&lt;/h3&gt;
+&lt;p&gt;One second use case where I use AI for studies is NotebookLM, it is pretty good even at this point of writing this blog post and it will only get better. My use case for notebooklm is specifically to make quizzes for current afafirs. I upload a pdf document containing current affairs (monthly or yearly) and then ask it to generate quizzes. At first I memorize the material from the pdf (no AI) then I go to the notebooklm website to generate quizzes. Based on my experiences I found that it can generate questions much more throughly when the source material is small, and thankfully there is option to deselect source materials to generate quizzes. If you want to do it, first delect all, then select only the pdf(source) you want to generate the quizzes from and click on quiz. I am only doing this for current affairs because i do not know ( or have not found) good sources for crrent affairs mock. I want to follow only a few sources and not like irrelevent things, so it is better if I generate the mock myself.&lt;/p&gt;
+&lt;h3 id=&#34;notes-from-youtube-video&#34;&gt;Notes From YouTube Video&lt;/h3&gt;
+&lt;p&gt;Now for maths, when I watch a youtube one shot video of a particular topic, the teacher usually does not provide the pdf for the material they are teaching. So I take screenshots. But revisioning materials from old screenshots is boring and I am very much prone to losing my screenshots. The solution is to generate pdf containing all the screenshot and upload it to any of the ai chatbots. Then I ask them to make a latex code from the pdf. For example if there is questions and options I ask it to extract the questions with options and make it look like two columned book. I then go to overleaf (online latex editor), compile the pdf and download it. Now I have a properly formatted note to refer when I am revisioning. I can discard those screenshots. If I am feeling little bit brave I would ask it to solve the questions for me and make a answer key section, with proper hints and solutions and it can do it too. I do not trust ai to be perfect and not make any mistakes, but it is good enough. And if it makes a mistake i can take a pen and scribble over it. It is AI generated and it can make mistakes (especially for generating solutions) , I keep that at the back of my mind.&lt;/p&gt;
+&lt;h3 id=&#34;building-an-book-companion-app&#34;&gt;Building an Book Companion App&lt;/h3&gt;
+&lt;p&gt;This one is bit complex and probably not recommended for people who are not tech savy (in that case you can ask a friend). It also requires little extra time and patience, (because AI never gets it right on the first time does it?). I have built a web app that I use as a companion when practicing mcqs from books. Earlier I would use pen and paper to write down the question number and chosen option. But now I open the website, tell it the first question number, the number of questions I want to practice and it opens an interface. The interface is just the qustion number and the options. Clicking on one option moves automatically to the next question number. Am i saving too much time from this? No really, but what it allows me to do is check stats for over the days or weeks, time tracking and much more. I have added some options like, confident, unsure, and guessing before choosing an answer such that i can optimize my strategy as when to take risk and when not to. It even shows the correct percentage in the stats page. I have made all of this app using AI. So I do not directly use AI for this, rather indirectly used it.  You can access this app at &lt;a href=&#34;https://mcq.blackpiratex.com&#34;&gt;https://mcq.blackpiratex.com&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;It is okay to be skeptical of new technology but when its good and actually improves your current workflow you should not be afraid to use it. After all the whole world is a competition, and if you do not stay ahead you are going to fall behind. If you found any of this useful, go ahead and implement that in your own studies. If you need help or have new ideas to use AI you can share it with me in the comment (or email me). Thank you for reading.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Year in Review - 2025</title>
+      <link>https://blackpiratex.com/blog/year-in-review-2025/</link>
+      <pubDate>Mon, 29 Dec 2025 22:35:00 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/year-in-review-2025/</guid>
+      <description>&lt;p&gt;So after trying to write for last two years, I think I am going to finish writing this year.
+Lets tackle different aspects of my life one by one.&lt;/p&gt;
+&lt;h2 id=&#34;studies&#34;&gt;Studies&lt;/h2&gt;
+&lt;p&gt;I finished my graduation this year on July-August. My college life is finally over, trying to take entry into work life and leave this student life behind. I do not plan on higher studies. Only places that I need higher degrees is in teaching related jobs, and I do not plan on doing those, trying to avoid it.
+I started preparing for govt-competitive exams this year seriously. Gave CGL pre for the first time, (mains in scheduled on January next year). MTS didnt happen yet this year. CHSL I wasn&amp;rsquo;t able to give due to distance of exam center. Gave Clarkship Mains at the end of the year.
+Am I satisfied with my performance? Um, yes but actually no. I am scared, I think current studying is not adequate to get any good job.
+Can I improve it? Yes i can. I want to average around 4-5 hours per day of study in 2026. It is not really ambitious. I am currently studying 3 hours on average (maybe a little less).
+What things I want to change in 2026? I want to be just as good in maths like I am in English. I know I can do it. All I need to do is give one mock everyday, WHATEVER HAPPENS, just ONE mock.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;relationships&#34;&gt;Relationships&lt;/h2&gt;
+&lt;p&gt;First talk about friendships. I knew I am going to be lonely after I finish college, and it happened, no surprise there. Only a few friends are remaining. Whom I thought would be good friends even after college, no longer much of a friends anymore. And friends whom I didnt care about much and were merely acquaintances, they now talk more often. In hindsight I feel like I should have ended a few friendships but it&amp;rsquo;s harder. This is the first time I am staying in a friendship even if I don&amp;rsquo;t want to. Which friend talks for an hour almost and then say &amp;ldquo;it was nice talking with you&amp;rdquo;? It&amp;rsquo;s irritating.
+And about romantic relationship, It&amp;rsquo;s not juicy anymore. Boring. I went to meet my college crush after changing city. Only once we did meet. I am supposed to go by the end of January.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;health&#34;&gt;Health&lt;/h2&gt;
+&lt;p&gt;I gained weight last year (It&amp;rsquo;s not a bad thing, it is deliberate). I was skinny, now I am a big guy. Im now hovering around 75-80kgs. I should be mindful about my diet. This year every inch of my body has changed. It&amp;rsquo;s Puberty 2.0. I had to give up almost all my clothes and switch to newer bigger ones. Shirts, T shirts and all my jeans dont fit me anymore. As far as I remember I didnt get sick much this year. If  I have to attribute this to something it would be probably because I tracked my calorie intake for 3 months straight and always fulfilled the daily requirements. It was a good habit but takes too much attention everyday.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;travels&#34;&gt;Travels&lt;/h2&gt;
+&lt;p&gt;I travelled some new places this year. The main highlight being Ranchi, Jharkhand. I talked about it &lt;a href=&#34;https://blog.blackpiratex.com/ranchi-experience/&#34;&gt;here&lt;/a&gt;. For CGL mains I went to Kolkata, the usual city. With [redacted] I visited St. Pauls Cathedral and Victoria Memorial. I went there after 10 years. Initially I visited those in class 8th. At the end of the year I spent the night in Durgapur, and also visited Barddhaman.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;technology&#34;&gt;Technology&lt;/h2&gt;
+&lt;p&gt;I bought a new tablet for studies. My laptop is completely broke now. Phone also broke this year. (display)
+I built lot of small and medium apps for my personal use through AI. The main highlight being my &lt;a href=&#34;https://diary.sudipx.in&#34;&gt;Diary app&lt;/a&gt;. I am going to do a prediction and say that AI is here to stay.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;highlights&#34;&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Expecptionally good performance academically. (I have to maintain this and improve on it in 2026) . All the goals I have set for myself was met. Some of it was luck too, I want to thank the universe and God for that.&lt;/li&gt;
+&lt;li&gt;Did one of the stupidest, courageous and adventurous thing in my life. I am yet to know its result. If it becomes successful, I will have a story to tell.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dream: Meeting Someone</title>
+      <link>https://blackpiratex.com/blog/dream-meeting-someone/</link>
+      <pubDate>Tue, 26 Aug 2025 19:00:00 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/dream-meeting-someone/</guid>
+      <description>&lt;p&gt;I went to see something by my college road. But in the way we met a weird person. It looked like a mentally unstable person. We were teasing him. He started following us. Then halfway through the journey, there was a shop type 2 story building. He quickly changed and transformed into a girl. Yep, he was trans.
+He kept following us. Now we are in the bhamuria Road, but I am actually going to the sammilani college. I was supposed to drop off at bhamuria more but i did not.&lt;/p&gt;
+&lt;p&gt;After crossing my mom&amp;rsquo;s school, i thought enough is enough and decided to get off from the toto. I had two- 3 friends with me. But they were scared. I was scared too but didn&amp;rsquo;t show it.
+I approached the person, who is now a girl. He tried to make some magic, like eleven in stranger things style. But nothing happened. I confronted her. She said shes like this because of animal cruelty. She showed me a document of all the animal cruelty happened. It had also the recent dogs judgement by SC. But there was something odd at the bottom. A script. I read it and knew instantly what it does. I confronted her again, what does this script do? It look little bit of pressure for her to talk. She had that devilish smile. That little script changes any text you type to &amp;ldquo;I agree with everything&amp;rdquo;. So it was a cult. I said.
+But me being me, I do not know what happened, and I started flirting. Called her madam and what not. Then she left and we resumed our journey.
+We took another toto and bargained. I was supposed to drop at my school and my other friends would go to their house. When I was crossing my school I was screaming that drop me off here, but he did not. Ultimately I was dropped off near a friend&amp;rsquo;s house. When i went to pay 15 rs there was not enough change. One odd thing that i noticed was new coins, mostly in odd numbers 17, 19 rupee coins, these dont exist. There was 20rs coin also, I once saw it in real life and touched it. But someone else have it, not me. I have no idea how I had those coins in my wallet. I paid 50rs and told my friends, so they pay the difference. I entered, because its rude not to enter after coming that close and not go in. I ate some snacks there and she was there. But we didnt talk and she did not acknowledge me.&lt;/p&gt;
+&lt;p&gt;I came out took a toto to go to my home.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ranchi Experience</title>
+      <link>https://blackpiratex.com/blog/ranchi-experience/</link>
+      <pubDate>Sat, 16 Aug 2025 21:00:00 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/ranchi-experience/</guid>
+      <description>&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
+&lt;p&gt;This journey was because of NTPC (railway) exam, that happened on 14th August. I went there on 13th and came back home on 15th.&lt;/p&gt;
+&lt;h1 id=&#34;things-that-i-noticed-are-different&#34;&gt;Things that I noticed are different.&lt;/h1&gt;
+&lt;p&gt;People in Jharkhand eats a lot of Samosa. Specially on train. The price is 10/piece. I bought 4 at Hatia Railway Station.&lt;/p&gt;
+&lt;p&gt;Female Hawkers, There are significant number of female hawkers, way more than that i see in West Bengal. They mostly sell chana, chickpeas with salad, lemon and chili. They give it in plant leaves, I do not know the name, Ill add it here if i come to know. It costs 20rs.
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;post-image&#34;&gt;
+    &lt;img src=&#34;https://blackpiratex.com/img/chana_hu_2123f8fd607688c0.webp&#34; width=&#34;3000&#34;  height=&#34;4000&#34;  alt=&#34;/img/chana.jpg&#34; loading=&#34;lazy&#34;&gt;
+    
+&lt;/figure&gt;
+
+Guest house for students was significantly cheaper and closer to the exam centre, I had trouble finding room at Kolkata for cheap, when I went there alone after passing 12th.&lt;/p&gt;
+&lt;h1 id=&#34;terrain&#34;&gt;Terrain:&lt;/h1&gt;
+&lt;p&gt;I thought I knew what plateu looks like, uh no, I did not. The landscape is so plateu like, which is exoected as this is part of Chotonagpur plateu. The part of Chotonagpur plateu that i am familier with is Vastly different from what I saw here. Most of the area is covered by trees, these are not deep forests I assume because there was trails, and agricultural lands in between. Whenever there&amp;rsquo;s plain, theres either human settlement or agricultural land or both.&lt;/p&gt;
+&lt;p&gt;The railway tracks are on same level, (honestly i doubt i would be able to tell even if there&amp;rsquo;s a slope) but the immediate srroundings change rapidly, sometimes when I look through the window the landscape is below me and I can see the top of the trees. And sometimes I see walls of rocks, marked by the breakings created by the human, obtructing the farland from my view. When I arrived at Ranchi I came through Muri, and  I returned through Barkakana, Hazaribag, Koderma, Madhupur, Chittaranjan and then Asansol. When I was on train to Ranchi I did saw those rocks that had been cut to make road for the railway track. But when I was returning there was something different. The rocks had been cut but also there were webs made up of iron(probably) that was used to hold the walls. It is so that any rocks don&amp;rsquo;t fall on the track. (Or wrose fall when train is passing by.)&lt;/p&gt;
+
+
+&lt;div class=&#34;justified-gallery&#34; data-row-height=&#34;180&#34; data-margins=&#34;5&#34;&gt;
+  
+    &lt;a href=&#34;https://blackpiratex.com/img/water-and-hills.jpg&#34; &gt;
+      &lt;img src=&#34;https://blackpiratex.com/img/water-and-hills.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Image&#34;&gt;
+    &lt;/a&gt;
+  
+    &lt;a href=&#34;https://blackpiratex.com/img/hills.jpg&#34; &gt;
+      &lt;img src=&#34;https://blackpiratex.com/img/hills.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Image&#34;&gt;
+    &lt;/a&gt;
+  
+    &lt;a href=&#34;https://blackpiratex.com/img/hills3.jpg&#34; &gt;
+      &lt;img src=&#34;https://blackpiratex.com/img/hills3.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Image&#34;&gt;
+    &lt;/a&gt;
+  
+    &lt;a href=&#34;https://blackpiratex.com/img/Hills2.jpg&#34; &gt;
+      &lt;img src=&#34;https://blackpiratex.com/img/Hills2.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Image&#34;&gt;
+    &lt;/a&gt;
+  
+    &lt;a href=&#34;https://blackpiratex.com/img/trees-the-top.jpg&#34; &gt;
+      &lt;img src=&#34;https://blackpiratex.com/img/trees-the-top.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Image&#34;&gt;
+    &lt;/a&gt;
+  
+    &lt;a href=&#34;https://blackpiratex.com/img/hills4.jpg&#34; &gt;
+      &lt;img src=&#34;https://blackpiratex.com/img/hills4.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Image&#34;&gt;
+    &lt;/a&gt;
+  
+    &lt;a href=&#34;https://blackpiratex.com/img/to-the-jungle.jpg&#34; &gt;
+      &lt;img src=&#34;https://blackpiratex.com/img/to-the-jungle.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Image&#34;&gt;
+    &lt;/a&gt;
+  
+    &lt;a href=&#34;https://blackpiratex.com/img/highway.jpg&#34; &gt;
+      &lt;img src=&#34;https://blackpiratex.com/img/highway.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Image&#34;&gt;
+    &lt;/a&gt;
+  
+    &lt;a href=&#34;https://blackpiratex.com/img/damodar-in-jharkhand.jpg&#34; &gt;
+      &lt;img src=&#34;https://blackpiratex.com/img/damodar-in-jharkhand.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Image&#34;&gt;
+    &lt;/a&gt;
+  
+    &lt;a href=&#34;https://blackpiratex.com/img/a-jungle.jpg&#34; &gt;
+      &lt;img src=&#34;https://blackpiratex.com/img/a-jungle.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Image&#34;&gt;
+    &lt;/a&gt;
+  
+    &lt;a href=&#34;https://blackpiratex.com/img/a-beautiful-plateu.jpg&#34; &gt;
+      &lt;img src=&#34;https://blackpiratex.com/img/a-beautiful-plateu.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Image&#34;&gt;
+    &lt;/a&gt;
+  
+&lt;/div&gt;
+
+
+  
+  &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/css/justifiedGallery.min.css&#34;&gt;
+  &lt;script src=&#34;https://cdn.jsdelivr.net/npm/jquery@3.6.0&#34;&gt;&lt;/script&gt;
+  &lt;script src=&#34;https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/js/jquery.justifiedGallery.min.js&#34;&gt;&lt;/script&gt;
+  &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/lightgallery@2.7.1/css/lightgallery.min.css&#34;&gt;
+  &lt;script src=&#34;https://cdn.jsdelivr.net/npm/lightgallery@2.7.1/lightgallery.umd.min.js&#34;&gt;&lt;/script&gt;
+  &lt;script&gt;
+    document.addEventListener(&#34;DOMContentLoaded&#34;, function () {
+      $(&#39;.justified-gallery&#39;).justifiedGallery({
+        rowHeight: 180,
+        margins: 5,
+        captions: true
+      }).on(&#39;jg.complete&#39;, function () {
+        lightGallery(document.querySelector(&#39;.justified-gallery&#39;), {
+          selector: &#39;a&#39;,
+          download: false
+        });
+      });
+    });
+  &lt;/script&gt;
+
+
+&lt;p&gt;The waterfalls are everywhere. These are not big for a  tourist attraction, I saw them from the window of the train. I was able to catch only one in my phone camera. No wonder Ranchi is called city of waterfalls.&lt;/p&gt;
+&lt;p&gt;Tunnels. I went through 2-3 railway tunnels when returning. This was quite a new experience. Those tunnels were also decently long.
+&lt;div class=&#34;container&#34;&gt;
+  &lt;div id=&#34;player-wrapper&#34; class=&#34;my-5&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script 
+  type=&#34;text/javascript&#34; 
+  src=&#34;https://cdn.jsdelivr.net/npm/@clappr/player@latest/dist/clappr.min.js&#34;
+&gt;
+&lt;/script&gt;
+
+&lt;script&gt;
+  var playerElement = document.getElementById(&#34;player-wrapper&#34;);
+
+  var player = new Clappr.Player({
+    source: &#34;/video/tunnel.mp4&#34;,
+    mute: true,
+    height: 360,
+    width: 640
+  });
+
+  player.attachTo(playerElement);  
+&lt;/script&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;what-i-learned&#34;&gt;What I learned:&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;If you are giving railway exam you can buy a reservation ticket for free. But you&amp;rsquo;ll have to do it offline&lt;/li&gt;
+&lt;li&gt;To avail railway dormitory you&amp;rsquo;ll need a ticket of at least 200km.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Achievements in College Life</title>
+      <link>https://blackpiratex.com/blog/achievements-in-college-life/</link>
+      <pubDate>Fri, 25 Jul 2025 23:00:00 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/achievements-in-college-life/</guid>
+      <description>&lt;p&gt;Here is the list of achievements in my college life(2022-25). Both positive and negative.&lt;/p&gt;
+&lt;h2 id=&#34;positive-achievements&#34;&gt;Positive Achievements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Rank second in college exam.&lt;/li&gt;
+&lt;li&gt;Get paid for computer related work.&lt;/li&gt;
+&lt;li&gt;Make friends with all the classmates.&lt;/li&gt;
+&lt;li&gt;Become Class Monitor.&lt;/li&gt;
+&lt;li&gt;Become first in something.&lt;/li&gt;
+&lt;li&gt;Go out with a girl.&lt;/li&gt;
+&lt;li&gt;Get gifts from someone for helping him/her.&lt;/li&gt;
+&lt;li&gt;Become Close with someone.&lt;/li&gt;
+&lt;li&gt;Become close with my crush.&lt;/li&gt;
+&lt;li&gt;Influence whole class&amp;rsquo;s descision.&lt;/li&gt;
+&lt;li&gt;Show my computer skill.&lt;/li&gt;
+&lt;li&gt;Spend teacher&amp;rsquo;s day/farewell in other&amp;rsquo;s dept.&lt;/li&gt;
+&lt;li&gt;Make friends outside my own classroom.&lt;/li&gt;
+&lt;li&gt;Flirt with someone (didnt do face to face yet).&lt;/li&gt;
+&lt;li&gt;Make money from classmates.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;negative-achievements&#34;&gt;Negative Achievements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Argue with teachers - 4/6&lt;/li&gt;
+&lt;li&gt;Get called by Principal&lt;/li&gt;
+&lt;li&gt;Bunk a class&lt;/li&gt;
+&lt;li&gt;End a friendship&lt;/li&gt;
+&lt;li&gt;Simp over someone.&lt;/li&gt;
+&lt;li&gt;Get my heart broken.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;neutral--achievements&#34;&gt;Neutral  Achievements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Spend night at friend&amp;rsquo;s room.&lt;/li&gt;
+&lt;li&gt;Go to a friend&amp;rsquo;s room at midnight to hang out.&lt;/li&gt;
+&lt;li&gt;Cook for friends.&lt;/li&gt;
+&lt;li&gt;Participate in a ralley for protest.&lt;/li&gt;
+&lt;li&gt;Enter into girls&amp;rsquo; hostel.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;things-i-didnt-achieve&#34;&gt;Things I didn&amp;rsquo;t achieve&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Get into a fight.&lt;/li&gt;
+&lt;li&gt;Any position in cultural programme&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dream: A Beautiful Garden</title>
+      <link>https://blackpiratex.com/blog/dream-a-beautiful-garden/</link>
+      <pubDate>Sun, 02 Feb 2025 21:00:00 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/dream-a-beautiful-garden/</guid>
+      <description>&lt;p&gt;I was someone else. Probably my brother and saw myself waiting in a hall. It was our college exam and somehow I forgot to do form fillup.&lt;/p&gt;
+&lt;p&gt;The me, in someone else&amp;rsquo;s body went to a hotel, but overheard the owner giving instructions to raise the prices for the students who came to give exam. So I left. The exam centre was right beside Ganga. So I reached one of the Gangas ghat, and when I entered the exam centre again it was the hall where all people who were not eligible was sitting and someone was instructing them to go with with to some office. I saw myself there. Sad and still smiling. I was going to scold &amp;ldquo;me&amp;rdquo; but then that&amp;rsquo;s the point when I realised it&amp;rsquo;s me who&amp;rsquo;s forgot. Suhana was also there, I went and sat beside her and asked why she&amp;rsquo;s here. She said because they won&amp;rsquo;t open the other doors yet.&lt;/p&gt;
+&lt;p&gt;We have a gurden in our house. It&amp;rsquo;s very big, bigger than my original home&amp;rsquo;s garden. But it was the garden at my house. I was walking there looking at trees. I found a string and when I pulled it up, a magnet came out. It was disc like and surprisingly shiny(like tablet battery, but bigger). I thought to myself Its the same magnet that I extracted from the TV in my childhood. (But it isn&amp;rsquo;t, the real one was black, not shiny and it was not a disc, but ring shaped.) I took it. The weight was heavy, I can definitely feel it.
+I found a mango at the upper right corner of the garden. At first I noticed coconuts which were broken but looked fresh, I touched it and realised they were spoiled, so mom probably threw them out.
+Suddenly I noticed that I&amp;rsquo;m inside a boundary made of bamboos and wires. But it was much stronger and it looked like it was made by professional. Upon closer inspection I noticed that the wires had tiny led bulbs, those RGB lights. They were blinking, since it was daytime I only noticed when I came close.
+I saw searching for more mangos at this point. (We have 6-7 mango trees in real life) I was going from one tree from another. But to no avail. I also saw my grandmother doing the same, but we didn&amp;rsquo;t talk.
+When I was searching, as I was inside the boundary made of wires I wasn&amp;rsquo;t able to get very close to the mango trees, so I have no idea how I would have grabbed the mango if I had found any more.
+Inside the wired fences, there was flower garden. At first I noticed roses, the colors were pink but they weren&amp;rsquo;t big, rather miniature version of roses, I thought to myself they must grow big later.
+There were other flowers also. Which I didn&amp;rsquo;t notice that well. But overall the garden was VERY well maintained. Doesn&amp;rsquo;t seem like something my mom would be able to do alone.
+Now I wanted to get out from inside these wired fences. I looked for it. I reached the very south of the garden. (I started my journey from East) The fences were higher this time, taller than me maybe double my height. At the west side there was an exit. The fence had ended. The boundary made up of bricks had also ended there,  it was meant to be a door but only the gap  is available not the door.&lt;/p&gt;
+&lt;p&gt;When I&amp;rsquo;m about to go out, two bikes came, I have no idea who they were. One bike saw me and to stop slightly hit the wall and missed the gap, the 2nd bike then came along and went through the gap inside the boundary of our house, at this point it was no longer my home. Some other playground, which maybe of my college, my brother&amp;rsquo;s college or my school&amp;rsquo;s playground. Or the amalgamation of three.&lt;/p&gt;
+&lt;p&gt;Before this scene happened, there was another scene.
+I was at my home and we were making different type of new recipes, all are some kind of deep friend thing. It included pork. I tasted pork too (I have never tasted pork in real life) and it tasted like &amp;ldquo;blank&amp;rdquo;. Literally nothing. I guess my mind can&amp;rsquo;t dream new information.
+There was another guy (probably brother) I asked him to give one from his plate. He had four. But didn&amp;rsquo;t give any. I said I gave you mine, so why are you saying no? He said nope. I accused him of being selfish and he didn&amp;rsquo;t even show any reaction. Mom was there being a silent audience. I felt like crying but didn&amp;rsquo;t. The ones that we made earlier were inside a box (trunk type).  I sneaked at one time and stole 4 pieces of those deep fried things. Here I have to mention that we were making different dishes. This one that I stole was neither mine nor my brother&amp;rsquo;s. It was different but at least that made me cope with it. I didn&amp;rsquo;t talk with anyone after stealing and went outside where scene 2 happened. It felt better.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dream: A Movie</title>
+      <link>https://blackpiratex.com/blog/dream-a-movie/</link>
+      <pubDate>Thu, 16 Jan 2025 21:00:00 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/dream-a-movie/</guid>
+      <description>&lt;p&gt;Main character me, brother and another guy. Who is black.&lt;/p&gt;
+&lt;p&gt;I was cleaning a toilet because it was overflowing. That made vomit reflex and woke me up. Took me at least 3-4 tries to finish cleaning&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s another scene where 3 of us were walking at the side of a road/railway. Suddenly a tank came and blocked the whole road. Veichles came fast and crashed into it. 2nd vehicle broke the tank itself. It happened very quickly in less than a minute and we can hear injured people crying.
+I was scared because I was worried if some debris would come hitting us and injure us.
+We left the scene quickly. It started to rain and we took shelter in a building. This building I have never seen before, it was big, a lot like shopping mall but abandoned. There was lots of people though who were seeking refuge in this rain. I was the first one to reach the building. But even after waiting for a while brother didn&amp;rsquo;t come, so anxiety took over and I went looking for him. I thought he probably lost direction. He was alone. Which was odd, but expected. I asked where the other guy was and he said that there&amp;rsquo;s some people looking for him and want to beat him up, so he went into hiding. I was on top of the balcony and saw two guys looking for someone, one guy had a big stick on his hand. I knew this guy. At first I was scared to make eye contact. But soon realised that they weren&amp;rsquo;t looking for me, so I made eye contact. I even thought of trying to persuade them to stop from hurting that guy. I talked with them, but memories of what happened is fuzzy.&lt;/p&gt;
+&lt;p&gt;In another scene mom was all alone in this rain at home which made me very sad, it was raining heavily.&lt;/p&gt;
+&lt;p&gt;In another scene I was in the charge for fixing the plumbing of the house. The plumber came and did the work haphazardly and I had to supervise them to fix it properly. At this time brother was in studying in front of a tuition teacher. The teacher was most probably CC sir.&lt;/p&gt;
+&lt;p&gt;Oh and there was a map of some place. Which I think I have seen before in another dream but not sure.&lt;/p&gt;
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;post-image&#34;&gt;
+    &lt;img src=&#34;https://blackpiratex.com/img/a-movie_hu_ca2ae80abb7c38b9.webp&#34; width=&#34;864&#34;  height=&#34;860&#34;  alt=&#34;/img/a-movie.png&#34; loading=&#34;lazy&#34;&gt;
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Dream: First Aeroplane Experience</title>
+      <link>https://blackpiratex.com/blog/dream-first-aeroplane-experience/</link>
+      <pubDate>Mon, 13 Jan 2025 21:00:00 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/dream-first-aeroplane-experience/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;I dreamt this after drinking coffee.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;I had my first experience of riding  an aeroplane.  It was riding very low and the windows were not glass.  It was like a toy and it was fun.&lt;/p&gt;
+&lt;p&gt;Then in train Pabitra had a bhai who was not found. He said his brother came with us but he was not sure if actially. He said that he would say that he is dead and instructed us to make a fake dead body to show in case. I once heard someone crying and calling &amp;ldquo;dada&amp;rdquo; but cannot figure out from where and who it was. Trying to find, we found the snake. The snake was scaring an animal which was neither dog not a cat, rather a mixture of two. There was a snake in the train. Actually two. Some people caught it. I also hold it in my hands and didn&amp;rsquo;t let it bite me..
+At the final dream I don&amp;rsquo;t remember its fraustating,
+I woke after the 2nd sleep, thought about writing down and repeated in my mind what I dreamt then slept and saw the third dream. Maybe because of repeatation I was able to remember.
+I took coffee just before sleep.&lt;/p&gt;
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;post-image&#34;&gt;
+    &lt;img src=&#34;https://blackpiratex.com/img/dream-air_hu_dc963e21db43e618.webp&#34; width=&#34;864&#34;  height=&#34;853&#34;  alt=&#34;/img/dream-air.png&#34; loading=&#34;lazy&#34;&gt;
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Dream about painting a house and trying different food dishes</title>
+      <link>https://blackpiratex.com/blog/dream-about-painting-a-house-and-trying-different-food-dishes/</link>
+      <pubDate>Thu, 09 Jan 2025 21:00:00 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/dream-about-painting-a-house-and-trying-different-food-dishes/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;I dreamt this on 9th Jan, 2025. I drank coffee that day.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;I dreamt that I was with mom and we were trying dishes&lt;/p&gt;
+&lt;p&gt;There was a girl who was ironing some fabric that was supposed to be edible. She burnt some fabric and also in the process her sweater. Her dad took it from her and started doing it. I don&amp;rsquo;t know what it tasted becase we didn&amp;rsquo;t get to taste it.&lt;/p&gt;
+&lt;p&gt;Then we were painting a house in black, the paint was being done in small black cubes. Light blue was under the black paint. I told mom that we were gonna make a gradient. So after  a while we are going to skip one cubes then two then 3 so on and so forth.&lt;/p&gt;
+&lt;p&gt;Brother wasn&amp;rsquo;t there, there were other persons. I called him first and he said that his laptop was stolen. But based the descriptuon he gave it was more  broken than stolen. I didn&amp;rsquo;t tell that to mom first. Then Mon called after a while and they talked long about it.&lt;/p&gt;
+&lt;p&gt;He gave the laptop to repair somewhere but instead of repairing they broke it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How I get Daily News</title>
+      <link>https://blackpiratex.com/blog/how-i-get-daily-news/</link>
+      <pubDate>Sun, 23 Jun 2024 23:13:00 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/how-i-get-daily-news/</guid>
+      <description>&lt;p&gt;In this post I would discuss how I read news on my kindle, benefit of my method and how you can replicate this method by yourself.&lt;/p&gt;
+&lt;h2 id=&#34;how-to-replicate&#34;&gt;How to Replicate&lt;/h2&gt;
+&lt;h3 id=&#34;prerequisites&#34;&gt;Prerequisites:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;A smartphone with Termux and Anlinux installed. There must be at least 2 GB of storage free.&lt;/li&gt;
+&lt;li&gt;Patience&lt;/li&gt;
+&lt;li&gt;Time on your hand.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;installing-a-linux-distro-on-termux&#34;&gt;Installing a Linux distro on termux&lt;/h3&gt;
+&lt;p&gt;Open the an Linux app and on the dashboard choose &lt;strong&gt;Fedora&lt;/strong&gt; and click &lt;em&gt;ok&lt;/em&gt;.
+Now click &lt;em&gt;copy&lt;/em&gt; and it should copy a command to your clipboard.
+Now click on &lt;em&gt;launch&lt;/em&gt; and it would open termux terminal.
+Now first run the command &lt;code&gt;pkg update &amp;amp;&amp;amp; pkg upgrade&lt;/code&gt;
+If you are prompted to answer type Y and hit enter to upgrade.
+Wait till it finishes downloading and installing the packages.
+Now paste the copied command from the above step and hit &lt;em&gt;enter&lt;/em&gt;.
+Give it time to download and install required packages. Make sure you have a fast internet connection.
+It should install everything and set up your Fedora Linux distro.&lt;/p&gt;
+&lt;h3 id=&#34;installing-calibre-and-setting-up&#34;&gt;Installing calibre and setting up&lt;/h3&gt;
+&lt;p&gt;After it finishes, type &lt;code&gt;./start-fedora.sh&lt;/code&gt; and hit enter. It should give you a shell. &lt;em&gt;[root@localhost -] #&lt;/em&gt;
+Now in that shell run &lt;code&gt;dnf update &amp;amp;&amp;amp; dnf upgrade &amp;amp;&amp;amp; dnf install calibre&lt;/code&gt;
+This command updates the system and installs calibre.&lt;/p&gt;
+&lt;h3 id=&#34;finding-your-favorite-newpaper&#34;&gt;Finding your favorite newpaper&lt;/h3&gt;
+&lt;p&gt;Calibre has a long list of recipes (scripts to fetch news) for different websites both regional and global.
+To see the whole list of all available inbuilt recipes run the command:
+&lt;code&gt;ebook-convert --list-recipes&lt;/code&gt;
+The list would be pretty big and you won&amp;rsquo;t be able to locate the particular news website you want. So I suggest you use grep to filter out only the one you need. For example if I want The Hindu Newspaper I would run the following command:
+&lt;code&gt;ebook-convert --list-recipes | grep &amp;quot;Hindu&amp;quot;&lt;/code&gt;
+&lt;figure&gt;&lt;img src=&#34;https://blackpiratex.com/img/IMG_20240623_224043.jpg&#34;&gt;&lt;figcaption&gt;
+      &lt;h4&gt;The Hindu recipes&lt;/h4&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+From the list shown I want &amp;ldquo;The Hindu&amp;rdquo; one specifically.&lt;/p&gt;
+&lt;p&gt;You can get your news in different formats, in my case I prefer .mobi format, as it shows progress of each article. You are free to choose any format you want.&lt;/p&gt;
+&lt;h3 id=&#34;making-a--git-repository-to-store-the-news-files&#34;&gt;Making a  git repository to store the news files&lt;/h3&gt;
+&lt;p&gt;I have a script that I have made with the help of chatGPT to download that newspaper automatically and save it in a particular git repo inside my termux, such that it pushes it to my website and makes it easy for me to download the file to my kindle through its inbuilt browser.&lt;/p&gt;
+&lt;p&gt;If you don&amp;rsquo;t have a git repository to store the news ebooks follow the steps below. If you are not interested in pushing the news files to a git repo skip to the next section.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Go to github.com and create a repository. Name it whatever you wish.&lt;/li&gt;
+&lt;li&gt;Copy the url of the repository.&lt;/li&gt;
+&lt;li&gt;Come back to termux and install git by running &lt;code&gt;dnf install git&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Now run &lt;code&gt;git clone [your repo url]&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Now it should clone it to your termux home directory.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;downloading-the-news-and-moving-it-to-the-repository&#34;&gt;Downloading the news and moving it to the repository&lt;/h3&gt;
+&lt;p&gt;The following script downloads the news and moves it to my &lt;em&gt;files&lt;/em&gt; repository.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;#!/bin/bash
+
+# Define the recipe file and the output file name  
+RECIPE_FILE=&amp;#34;The Hindu.recipe&amp;#34;  
+OUTPUT_PROFILE=&amp;#34;kindle&amp;#34;  
+OUTPUT_FILE=&amp;#34;The Hindu $(date &amp;#39;+%B %d, %Y&amp;#39;).mobi&amp;#34;
+
+# Create a temporary file to capture the output  
+TEMP_OUTPUT=$(mktemp)
+
+# Run the ebook-convert command and tee the output to both console and the temp file  
+ebook-convert &amp;#34;$RECIPE_FILE&amp;#34; &amp;#34;$OUTPUT_FILE&amp;#34; --output-profile &amp;#34;$OUTPUT_PROFILE&amp;#34; 2&amp;gt;&amp;amp;1 | tee &amp;#34;$TEMP_OUTPUT&amp;#34;
+
+# Check if the ebook-convert command was successful  
+if [ ${PIPESTATUS[0]} -ne 0 ]; then  
+  echo &amp;#34;Error: ebook-convert command failed.&amp;#34;  
+  cat &amp;#34;$TEMP_OUTPUT&amp;#34;  
+  rm -f &amp;#34;$TEMP_OUTPUT&amp;#34;  
+  exit 1  
+fi
+
+# Extract the output file path from the command output  
+OUTPUT_PATH=$(grep -oP &amp;#39;Output saved to\s+\K.*&amp;#39; &amp;#34;$TEMP_OUTPUT&amp;#34;)
+
+# Check if the output path was found  
+if [ -z &amp;#34;$OUTPUT_PATH&amp;#34; ]; then  
+  echo &amp;#34;Error: Could not find the output file path in the command output.&amp;#34;  
+  rm -f &amp;#34;$TEMP_OUTPUT&amp;#34;  
+  exit 1  
+fi
+
+# Define the target directory  
+TARGET_DIR=&amp;#34;/root/files/news/the-hindu&amp;#34;
+
+# Check if the target directory exists  
+if [ ! -d &amp;#34;$TARGET_DIR&amp;#34; ]; then  
+  echo &amp;#34;Error: Target directory $TARGET_DIR does not exist.&amp;#34;  
+  rm -f &amp;#34;$TEMP_OUTPUT&amp;#34;  
+  exit 1  
+fi
+
+# Move the output file to the target directory  
+mv &amp;#34;$OUTPUT_PATH&amp;#34; &amp;#34;$TARGET_DIR&amp;#34;
+
+# Check if the move was successful  
+if [ $? -ne 0 ]; then  
+  echo &amp;#34;Error: Failed to move the file to $TARGET_DIR.&amp;#34;  
+  rm -f &amp;#34;$TEMP_OUTPUT&amp;#34;  
+  exit 1  
+fi
+
+# Clean up temporary file  
+rm -f &amp;#34;$TEMP_OUTPUT&amp;#34;
+
+echo &amp;#34;File successfully moved to $TARGET_DIR&amp;#34;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;It runs the ebook-convert command to download the news and saves it as a mobi file. I file name grabs automatically the current date. Then it saves it to my repository &amp;ldquo;files&amp;rdquo;.&lt;/p&gt;
+&lt;h3 id=&#34;uploading-the-downloaded-file-to-my-website&#34;&gt;Uploading the downloaded file to my website&lt;/h3&gt;
+&lt;p&gt;Now you can commit the changes and push it to the GitHub. I have a vercel website that transforms the git repo into a website of file manager. Someday I hope to move to Hugo and use only html to show the file lists.&lt;/p&gt;
+&lt;h3 id=&#34;reading-on-kindle&#34;&gt;Reading on Kindle&lt;/h3&gt;
+&lt;p&gt;After the file has been pushed to my website, I open the kindle and open the web browser. Now go to the website and download the file. It should download easily and thereafter you can read it without worries.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Kindle is a great device. Getting your daily news by this method means you can get it for free, and the sexy e-ink display would be utilized.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Hyprland Experience</title>
+      <link>https://blackpiratex.com/blog/the-hyprland-experience/</link>
+      <pubDate>Sat, 01 Jul 2023 23:55:28 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/the-hyprland-experience/</guid>
+      <description>&lt;p&gt;I have been using &lt;a href=&#34;https://archlinux.orh&#34;&gt;Arch Linux&lt;/a&gt; with &lt;a href=&#34;https://hyprland.org/&#34;&gt;Hyprland&lt;/a&gt;. Initially I started using because of the cool animation it has. And stayed with it since.&lt;/p&gt;
+&lt;h2 id=&#34;look-and-feel&#34;&gt;Look and Feel&lt;/h2&gt;
+&lt;p&gt;Hyprland excels at it. Animations are super smooth and eyecatchy.I don&amp;rsquo;t necessarily care for eye candy features, but this time made an exception. The default look is actually pretty good. I didn&amp;rsquo;t have to do much ricing to get it look sexy.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://blackpiratex.com/img/hyprland.jpg&#34;&gt;&lt;figcaption&gt;
+      &lt;h4&gt;A picture of my Hyprland setup, taken by phone, because I cannot figure out how to take screenshot.&lt;/h4&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;configuration&#34;&gt;Configuration&lt;/h2&gt;
+&lt;p&gt;Configuration was not as easy as I expected. I haven&amp;rsquo;t &lt;em&gt;really&lt;/em&gt; configured any tiling window manager previously, so it was bit hard for me.  But with few Google search I was easily able to pull it off. I didn&amp;rsquo;t change much. Only changed DPI along with few keybindings.&lt;/p&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;Documentation for Hyprland is okay. It&amp;rsquo;s not bad, but also nowhere as good as Arch Linux documentation. Basic configuration was easy to understand, but for little bit advanced configuration I was having a tough time. It may be skill issue. I only read the surface level stuff so not totally sure how good the documentation is for more advanced stuff. Being fairly recent window manager, state of the documentation is justifiable.&lt;/p&gt;
+&lt;h2 id=&#34;waybar&#34;&gt;Waybar&lt;/h2&gt;
+&lt;p&gt;This is where I faced my biggest problem. Everything worked as you would expect, but it would not show the numbering of workspaces at first. Documentation for that feature was incomprehensible. Then I skimmed through some dotfiles for hyprland by some people and was able to make it show the workspace number. After that ricing it was easy. I still haven&amp;rsquo;t added any new command. Just the default ones.&lt;/p&gt;
+&lt;h2 id=&#34;wallpaper&#34;&gt;Wallpaper&lt;/h2&gt;
+&lt;p&gt;I used hyprpaper for wallpapers. It is minimal, as you need to change the config to change the wallpaper. I do not like it. Being someone who likes to change wallpaper quite often, I am used to see the wallpaper while applying them. I miss nitrogen. I should write shell script to fix this problem.&lt;/p&gt;
+&lt;h2 id=&#34;terminal&#34;&gt;Terminal&lt;/h2&gt;
+&lt;p&gt;Right now I am using foot as my main terminal. I heard it can show images from &lt;a href=&#34;https://bugswriter.com&#34;&gt;Bugswriter&amp;rsquo;s&lt;/a&gt; video, and installed it myself. I configured it to show previews and images in lf file manager. It wasn&amp;rsquo;t easy, but I was able to do it. I am going to stick with this terminal, unless there is a reason to switch.&lt;/p&gt;
+&lt;h2 id=&#34;other-things&#34;&gt;Other things&lt;/h2&gt;
+&lt;p&gt;I didn&amp;rsquo;t have any problems with wayland. Although I had to relearn a few things. For example I cannot figure out how to change brightness of the monitor of my laptop. Using &lt;code&gt;brill&lt;/code&gt; command now I can change brightness. Syntax for it is little bit too much complicated, need to make it into a keybinding. Also why is it that if I lower my brightness too much it would completely shut down the monitor backlight? And then I won&amp;rsquo;t be able to see anything to even revert back.
+Audio also gave me some pain which can be attributed to my skill (or the lack thereof), as I installed other DE which came with their own audio configuration, which supposedly messed with my configuration. But right now I have it working smoothly. Also keyboard buttons to change volume working flawlessly.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Hyprland is the very first window manager that I installed from scratch and configured it myself. Despite of that it was relatively easy to install and configure. Came for the animations, staying for total experience.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dream Entry #1</title>
+      <link>https://blackpiratex.com/blog/dream-entry-1/</link>
+      <pubDate>Tue, 11 Apr 2023 21:00:00 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/dream-entry-1/</guid>
+      <description>&lt;p&gt;I dreamt again.&lt;/p&gt;
+&lt;p&gt;This time I was running away from people of an universe of exact same people of this universe. Actually it was parallel universe, everything is exact copy.&lt;/p&gt;
+&lt;p&gt;A bean like thing has corrupted mind of almost all the people of that parallel universe and made everyone evil.I wasn&amp;rsquo;t effected by those beans for some reason. But I had no idea that I was not effected. At first there were no beans, then suddenly beans were everywhere, like it was raining beans. I remember collecting them. These beans were round bright yellow in color. There&amp;rsquo;s a whole story about how these beans took over that parallel universe, but I don&amp;rsquo;t remember much.&lt;/p&gt;
+&lt;p&gt;After they became evil, the only way to reproduce was by rape. They tried to kill me, I thought they would rape me but they were trying to take my eyes out with finger. It didn&amp;rsquo;t hurt much also, there is slight hesitation in the guy who was trying to take my eyes out.&lt;/p&gt;
+&lt;p&gt;Suddenly while I was being tortured by the leader, A guy came and told the leader that 6 people were still not effected by the beans. The leader panicked and using that oppertunity I became free. This is the time I became aware that I was one of those 6 guys who were not effected.&lt;/p&gt;
+&lt;p&gt;I ran like crazy and met with two other uneffected guys and joined them. They had guns. I didn&amp;rsquo;t. Those two guys removed the safety of the gun and pointed it towards the now-effected people, which resulted in them not moving forward to us.&lt;/p&gt;
+&lt;p&gt;Then somehow I left that parallel universe and came to my own original universe, where beans don&amp;rsquo;t rule.&lt;/p&gt;
+&lt;p&gt;I was alone, running away from the people of that parallel universe who were trying to hunt me down. I would escape but won&amp;rsquo;t be able to go very far. It was constant running.&lt;/p&gt;
+&lt;p&gt;While running I was almost hurt by a wooden needle like structure protruding from a wall. Someone I don&amp;rsquo;t know stopped me and saved me from hitting it. I didn&amp;rsquo;t even say thanks as far as I remember.&lt;/p&gt;
+&lt;p&gt;I also went to my mom, told her about it, ate with her and then ran away through her garden.&lt;/p&gt;
+&lt;p&gt;One guy was chasing me. I was running away from him. There were long big trees, a lot like Eucalyptus trees. Those trees were organised in a pattern, pointing to the fact that it was planted by people. Among those trees was a big mansion. There were walls srrounding the mansion. And there were doors, big doors that can allow a car to enter. Number of doors were more than one. It was locked in a way that you can open it from both sides. Trying to escape the guy, I opened one door and
+entered, then locked the door again. He saw me entering. He came in from different door. At this point I was afraid and feeling lost, as I cannot figure out how to escape again. He almost caught me.&lt;/p&gt;
+&lt;p&gt;He saw the nameplate on the wall. It&amp;rsquo;s his dad&amp;rsquo;s house. Biological dad. His dad left him, when he was young. They had no contact. His dad has a new son. He started talking with his dad turning away from me. Catching the moment, I tried to escape.&lt;/p&gt;
+&lt;p&gt;I woke up, with sweats on my neck.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Fountain Pen Collection</title>
+      <link>https://blackpiratex.com/blog/my-fountain-pen-collection/</link>
+      <pubDate>Sun, 12 Feb 2023 20:43:37 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/my-fountain-pen-collection/</guid>
+      <description>&lt;p&gt;I like pens. If you ask my family they would tell you how much money I have spent (ahem, wasted) on pens. I used almost all type of pens there is, that is if they are available for purchase in India.
+My recent obsession is fountain pens. I love them. A good fountain pen writes miles better than any other kind of pen. But they are expensive. Like very expensive. But most the fountain pens are made so that they can be used for a very long time. I bought some with my own money and some from parents.
+Another benifit of using fountain pens is that a wide collection of inks, in color and in quality both. Right now I have 3 black inks one blue turquiose and one green shamrock. I mainly use black, as it is work appropriate and black probably looks the best on white paper.&lt;/p&gt;
+&lt;h2 id=&#34;list-of-the-pens-i-own&#34;&gt;List of the pens I own:&lt;/h2&gt;
+&lt;h3 id=&#34;parker-vector&#34;&gt;Parker Vector&lt;/h3&gt;
+&lt;p&gt;It is the first true fountain pen that I used. Actually my brother bought and I borrowed from him to use it. The nib is definitely scratchy and the converter doesn&amp;rsquo;t keep much ink. Other than that it looks good and feels lightweight. The grip is smooth, so it&amp;rsquo;s prone to slip if you have a sweaty or oily hand. It&amp;rsquo;s overall a meh pen. There&amp;rsquo;s better alternative at this price point.&lt;/p&gt;
+&lt;h3 id=&#34;jinhao-992-fine&#34;&gt;Jinhao 992 Fine&lt;/h3&gt;
+&lt;p&gt;This is my 2nd least favourite pen. Don&amp;rsquo;t get me wrong, it&amp;rsquo;s a good pen, but the nib is too scratchy for my taste (I have been spoiled by smoother nib). The pen has a transparent body, that means it&amp;rsquo;s a demonstrator pen. The grip is smooth but much better than Parker Vector. The converter is big, also you can use this pen as eyedropper. If you can get over the scratchy feeing of the nib it&amp;rsquo;s definitely gonna be one of the best.&lt;/p&gt;
+&lt;h3 id=&#34;jinhao-x450-medium&#34;&gt;Jinhao x450 Medium&lt;/h3&gt;
+&lt;p&gt;This pen is heaviest in my collection. It took me quite some time to be able to use it comfortably. But for long form writing I do not use it. Most of the time I use this pen without keeping the cap posted. This pen has the thickest line and can actually produce some noticeable shading with appropriate ink. By the looks, it&amp;rsquo;s definitely one of the best looking. Only problem I have with this pen is while disassembling. I tried so many times, so many way and still not be able to remove
+the nib from the main body. I gave up.&lt;/p&gt;
+&lt;h3 id=&#34;platinum-preppy-fine&#34;&gt;Platinum Preppy Fine&lt;/h3&gt;
+&lt;p&gt;This is my 3rd favourite pen. This is arugbly one of the smoothest nib in my collection, despite being a fine nib. The weight is little bit on the lighter side, which I do not like, but I am sure that filling up the whole pen with ink (as eyedropper) will significantly increase the weight of the pen that would make me want to write with it. I&amp;rsquo;ll try it.&lt;/p&gt;
+&lt;h3 id=&#34;pilot-kakuno-medium&#34;&gt;Pilot Kakuno Medium&lt;/h3&gt;
+&lt;p&gt;It is my 2nd favourite pen. I bought it recently. Should have bought it earlier. There is no doubt that pilot makes one of the best fountain pens in this price point. It has a plastic body, but the quality of the plastic body is very premium. Because of the plastic body it is very lightweight, good for long writing sessions.  Only thing that I do not like about this pen is that it has holes in its cap, which results in ink drying if you do not use it for few days. It is annoying at times. The nib is very smooth, but not as smooth as Pilot Metropolitan. Also, it
+took me some time to get used to the grip, it is definitely little odd.&lt;/p&gt;
+&lt;h3 id=&#34;pilot-metropolitan&#34;&gt;Pilot Metropolitan&lt;/h3&gt;
+&lt;p&gt;If you are at all interested in fountain pens, you probably have heard of this pen, and for a good reason. Of all the pens that I own, and have used this one is by far the best. Pilot Metropolitan with Pilot ink is one of the smoothest writing experience I have ever gotten. The grip is one of the best, if not the best on any pen. I love how its little heavy that you do not need to put pressure but also not too heavy that your hand starts to get tired. It is also the most expensive in this
+list, definitely worth the money.&lt;/p&gt;
+&lt;p&gt;If you are planning to try a fountain pen, my recommend would be to go with Platinum Preppy, go with the medium nib, if you don&amp;rsquo;t mind little thicker lines in exchange for a smoother experience. Although I do not like the argonomics, the very little weight and smoothest nib makes up for that. Also platinum pens can stay over a year without drying, if you keep them capped.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Streaming on Spotify vs Using Mp3s</title>
+      <link>https://blackpiratex.com/blog/streaming-on-spotify-vs-using-mp3s/</link>
+      <pubDate>Fri, 30 Sep 2022 18:52:07 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/streaming-on-spotify-vs-using-mp3s/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Disclaimer: here by mp3 I am referring to any playable music file, with any extension.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;For most people Spotify is great, or at least it is better than managing your own mp3s like in the old days. But there are few things that I absolutely hate, which made me switch to MP3.&lt;/p&gt;
+&lt;h1 id=&#34;things-that-pisses-me-off-about-spotify&#34;&gt;Things that pisses me off about Spotify:&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Podcasts - I know a lot of people who listens to podcast through Spotify, but I hate it. I follow podcasts through their RSS feed and listen to them on Antenapod. I wish there were an option to remove podcasts from my Spotify home screen completely, but currently there isn&amp;rsquo;t any.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Privacy issues - Spotify has lots and lots of privacy issues. Their Android app has  8 trackers as of 14 sep 2022. Also it&amp;rsquo;s pretty clear that they track and use all your listening habits.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Removal of certain artists - It is happening to Spotify for so long, I didn&amp;rsquo;t care back then because all the artists I like were there on Spotify. But then suddenly out of nowhere almost all songs of Adeline Hill were vanished. I was pissed - that was the last straw.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;looking-at-alternatives&#34;&gt;Looking at alternatives:&lt;/h1&gt;
+&lt;p&gt;I needed something that doesn&amp;rsquo;t have these problems, without losing much convenience. Apple music is a close one, but it has its own set of problems. Android app is very buggy (I spent 30 mins trying to get my account logged in) and feels sluggish all the time. If I&amp;rsquo;m going to pay for a product I don&amp;rsquo;t wanna feel like second class citizen.
+YouTube music is another good option, but I&amp;rsquo;d love to stay away from Google.
+Last option is using MP3, I went with that.&lt;/p&gt;
+&lt;h1 id=&#34;benifits-of-using-mp3&#34;&gt;Benifits of using mp3:&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;You own the damn song&lt;/strong&gt; - I mean there&amp;rsquo;s no worries if Spotify is going to remove that song, no worries if Spotify servers are down or if you lose access to their service somehow. You can keep it locally and play whenever you wish.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Works with any shitty app&lt;/strong&gt; - You can use any app you like, open-source/closed-source,  minimal/feature-rich etc. There&amp;rsquo;s hundreds of MP3 player apps are out there on every platform. If you get bored of one, you can easily switch back to another app.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Works offline&lt;/strong&gt; - And it&amp;rsquo;s completely free! All streaming apps requires you to pay a monthly fee to download songs for offline listening. You may asay &amp;lsquo;but I want to support the artists&amp;rsquo;, buy their merch or go to their concert, that&amp;rsquo;s better way to support them.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Using higher quality of audio files&lt;/strong&gt; - if you go this route, you have the option to choose any quality of audio you want. For example you can use FLAC for better sound quality.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;disadvantages-of-mp3&#34;&gt;Disadvantages of mp3:&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Hard to organize: It is probably single biggest problem of using mp3 files. It takes way too much work. If you&amp;rsquo;re like me and your library grows as time goes on, the work to organize would quickly become tedious. If you use multiple devices (everybody uses multiple devices nowadays) you&amp;rsquo;ll have to keep your library on sync, which requires work.&lt;/li&gt;
+&lt;li&gt;No way to discover new music: It&amp;rsquo;s pretty obvious. You cannot discover new music if you just listen to your own library. It may be okay for you, but not going to work for me. I like to find new music (even if that means going through hundred shit music). You can use last.fm but it has it&amp;rsquo;s own issues.&lt;/li&gt;
+&lt;li&gt;Storage Problem: Most smartphones does not come with any SD Card slot nowadays. So whatever storage you get while buying a new phone stays the same and there is no way to expand it. It can be a problem. If your music library is huge. Or if you are listening to FLAC music you would easily run out of storage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Although there are some advantages of using mp3, disadvantages definitely outweigh them. Convinience is a major part which makes me want to stream instead of using these mp3s. In future when I get my own Raspberry Pi ( hopefully the future is near ) I&amp;rsquo;d like to host my own Jellyfin server there for music. It would be my primary way of listening to music. And when I would feel like finding new music I would use Spotify as usual. Other that music discovery there is few other things that keeps me inside spotify. Those are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ability to listen music with friends.&lt;/li&gt;
+&lt;li&gt;Being able to manage my playlists from all my devices. (I do not know how to do it while using mp3s)&lt;/li&gt;
+&lt;li&gt;Bening able to listen to whole discography of an artist with great convinience. ( If I find an Artist I like I would just go to their spotify page and choose shuffle all. )&lt;/li&gt;
+&lt;li&gt;Sharing playlists with others.&lt;/li&gt;
+&lt;li&gt;Playlist/Song radio&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In conclusion, spotify is still better for me to listen to music than to use mp3. I&amp;rsquo;m always trying to find new music and Spotify helps with that a lot. Maybe in future when I grow old and start to think all new music are trash I would definitely move to mp3s.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WhatsApp Has Fake Reviews on Playstore</title>
+      <link>https://blackpiratex.com/blog/whatsapp-has-fake-reviews-on-playstore/</link>
+      <pubDate>Sun, 28 Aug 2022 18:50:10 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/whatsapp-has-fake-reviews-on-playstore/</guid>
+      <description>&lt;p&gt;I was reading reviews for Whatsapp on playstore and came to see this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blackpiratex.com/img/fake-review.png&#34; alt=&#34;image&#34; &gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blackpiratex.com/img/fake-review-1.png&#34; alt=&#34;image&#34; &gt;&lt;/p&gt;
+&lt;p&gt;There is more:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blackpiratex.com/img/fake-review-2.png&#34; alt=&#34;image&#34; &gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blackpiratex.com/img/fake-review-3.png&#34; alt=&#34;image&#34; &gt;&lt;/p&gt;
+&lt;p&gt;And more:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blackpiratex.com/img/fake-review-4.png&#34; alt=&#34;image&#34; &gt;&lt;/p&gt;
+&lt;p&gt;This one too:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blackpiratex.com/img/fake-review-5.png&#34; alt=&#34;image&#34; &gt;&lt;/p&gt;
+&lt;p&gt;I am sure if you search, more will come. I wonder who&amp;rsquo;s doing these!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Making Microblogging Website Using Hugo &amp; Netlify</title>
+      <link>https://blackpiratex.com/blog/making-microblogging-website-using-hugo-and-netlify/</link>
+      <pubDate>Thu, 25 Aug 2022 19:30:17 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/making-microblogging-website-using-hugo-and-netlify/</guid>
+      <description>&lt;h2 id=&#34;check-a-live-version&#34;&gt;Check a live version:&lt;/h2&gt;
+&lt;p&gt;Check out live version of the website that I made.
+&lt;a href=&#34;https://status.blackpiratex.com/&#34;&gt;https://status.blackpiratex.com/&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Blogs are great if you want to write something that is atleast one paragraph. But for those one line thoughts that comes to your mind, which you want to share with the world or want to write it down, &amp;lsquo;cause most likely you would not remember it in future, microblogging is the way to go. If you are not familier with this term, it means twitter like platform, where you can make posts but those would be not more than a paragraph.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Website is fully static. HTML and CSS only.&lt;/strong&gt; (JS used only for fontawesome)&lt;/li&gt;
+&lt;li&gt;Totally &lt;strong&gt;free&lt;/strong&gt; (other than domain) and going to be free for a long long time.&lt;/li&gt;
+&lt;li&gt;Ability to add &lt;strong&gt;images&lt;/strong&gt;, embed &lt;strong&gt;youtube&lt;/strong&gt; etc. &lt;/li&gt;
+&lt;li&gt;Auto compression of images.&lt;/li&gt;
+&lt;li&gt;Ability to add &lt;strong&gt;tags/moods&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Very &lt;strong&gt;lightweight&lt;/strong&gt;. Should load faster than light. (if you want more speed, remove fontawesome from the head and css and make those images hyperlink).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Everything stays on github&lt;/strong&gt;, so it would be easier to backup.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration:&lt;/h2&gt;
+&lt;p&gt;I do not like social media. It is not the privacy concern or  the fact that I would spend my time there much more than I would have anticipated, but rather &lt;strong&gt;it&amp;rsquo;s the fear of losing all my data&lt;/strong&gt;. 40-50 years into the future I want all my shitposts to be preserved. And I do not think that any mainstream social media websites like Twitter, Facebook, Instagram etc would stay functional that long into the future. And even if they are, there&amp;rsquo;s nothing stopping them from deleting old stuff from their servers. Or maybe for some reason your account gets banned or hacked. There is so many ways you can lose your data.&lt;/p&gt;
+&lt;p&gt;But if you &lt;strong&gt;&amp;ldquo;own&amp;rdquo; your data&lt;/strong&gt;, i.e storing your own data somewhere where you have full control, almost all these problems will be solved. You can still lose your data, so you need to take responsibility. I am willing to do that. That&amp;rsquo;s why I made this twitter like microblogging website. &lt;strong&gt;All the files are stored on github.&lt;/strong&gt; And needless to say I have local copy of these files.&lt;/p&gt;
+&lt;h2 id=&#34;how-to&#34;&gt;How-to&lt;/h2&gt;
+&lt;p&gt;There is three things I used to set up this website,&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blackpiratex.com/img/logos-hugo-netlify-github.jpg&#34; alt=&#34;Hugo Netlify Github Logo&#34; &gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; (Static site generator)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://netlify.app/&#34;&gt;Netlify&lt;/a&gt; (platform to deploy my website for free&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt; ( to host all the files)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;step-by-step-process&#34;&gt;Step by Step Process:&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;First I have made a theme for Hugo. (It is a modified version of the theme I had made earlier &lt;a href=&#34;https://blackpiratex.com/setting-up-my-website-on-hugo.md&#34;&gt;here&lt;/a&gt;.) In this theme all the posts resides on the homepage with their whole content. It shows date and time in a pill shaped design.&lt;/li&gt;
+&lt;li&gt;Whole website folder is a git repo and it is uploaded to GitHub, &lt;a href=&#34;https://github.com/blackpiratelive/status&#34;&gt;see here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;I used netlify and linked my repo for it to build and deploy my website whenever new commit is done in github.&lt;/li&gt;
+&lt;li&gt;Installed &lt;a href=&#34;https://play.google.com/store/apps/details?id=io.gitjournal.gitjournal&#34;&gt;GitJournal&lt;/a&gt; app on my android and now I can post from my phone easily.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;breakdown-of-steps&#34;&gt;Breakdown of steps:&lt;/h2&gt;
+&lt;h3 id=&#34;step-1&#34;&gt;Step 1:&lt;/h3&gt;
+&lt;p&gt;On the home page of my website there is a loop which goes through all the posts grabs their date and time, and content and makes those appear on the home page. &lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{ range (.Paginator 100).Pages }}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;status-all&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;time&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;span&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;relativetime&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;datetime&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;{{ dateFormat &amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;2006-01-02T15:04:05&lt;/span&gt;&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;Date&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;}}&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;title&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;{{ dateFormat &amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;January&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;2&lt;/span&gt;&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;2006&lt;/span&gt;&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;Date&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;}}&amp;#34;&lt;/span&gt;&amp;gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;span&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;date-only&amp;#34;&lt;/span&gt;&amp;gt;{{ .Date.Format &amp;#34;02 Jan 2006&amp;#34; }}&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;span&lt;/span&gt;&amp;gt; | &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;span&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;timeam&amp;#34;&lt;/span&gt;&amp;gt;{{ .Date.Format &amp;#34;15:04&amp;#34; }}&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;span&lt;/span&gt;&amp;gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;span&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{ .Content }}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{ if isset .Params &amp;#34;tags&amp;#34; }}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;span&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;mood&amp;#34;&lt;/span&gt;&amp;gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;span&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{ range (.GetTerms &amp;#34;tags&amp;#34;) }}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;span&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;{{ .Permalink }}&amp;#34;&lt;/span&gt;&amp;gt;{{ .LinkTitle }}&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;&amp;gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;span&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{ end }}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{ end }}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;br&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{ end -}}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;The very first line is the start of the loop. It basically says that give me all the pages (post pages). The &lt;em&gt;.Paginator 100&lt;/em&gt; parts basically tells that I want first 100 pages. Then the loop runs. The &lt;em&gt;{{ if isset .Params &amp;ldquo;tags&amp;rdquo; }}&lt;/em&gt; part checks for any tags, if there is any tag associated with the post, then it would run another loop. It will grab all those tags and display them. If there is no tags added to the post, this loop would not run. So if you have not added any tags to the post it would not show them.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{ if .Paginator.HasPrev }}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;btn btn-default&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;{{ .Paginator.Prev.URL }}&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt; &lt;span style=&#34;color:#f92672&#34;&gt;Newer&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Statuses&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;a&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{ end }}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{ if .Paginator.HasNext }}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;btn btn-default&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;{{ .Paginator.Next.URL }}&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Older Statuses &amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{ end }}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This part adds two links to the end of the page. The very first loop checks if there is any newer statuses, that this page does not contain, then it would run and display a hyperlink called &lt;em&gt;Newer Statuses&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The second loop does exactly same except it would show &lt;em&gt;Older Statuses&lt;/em&gt; if there is any older posts available.&lt;/p&gt;
+&lt;p&gt;Basically after you have made over 100 posts, it would add a link to the very bottom of the homepage to link to the older posts. And when you go the page 2 it would show newer posts link at the bottom of the page.&lt;/p&gt;
+&lt;p&gt;This is all there is to the theme. You can go ahead and edit much more like page of each post and  everything else. But it is not really necessary because everything would reside on the home page.&lt;/p&gt;
+&lt;h2 id=&#34;step-2&#34;&gt;Step 2:&lt;/h2&gt;
+&lt;p&gt;After you&amp;rsquo;ve made everything locally. It&amp;rsquo;s time to put it in front of the world. Go ahead and make a repository on GitHub and upload your files there. You can also use git CLI to upload all your files to a github repository. This should  be a very easy task to do.&lt;/p&gt;
+&lt;h2 id=&#34;step-3&#34;&gt;Step 3:&lt;/h2&gt;
+&lt;p&gt;It&amp;rsquo;s time to link Netlify with GitHub. Go to &lt;a href=&#34;http://netlify.app&#34;&gt;netlify.app&lt;/a&gt; and sign up using your GitHub account.  After you&amp;rsquo;ve done that and on netlify dashboard, click on add new site. You should choose import existing project. Now it would ask you to choose a git provider. Because our repository is uploaded on &lt;a href=&#34;http://GitHub.com&#34;&gt;GitHub.com&lt;/a&gt; we are going to choose GitHub option. If you have used any other service to host your git repository choose that option from the list.&lt;/p&gt;
+&lt;p&gt;After choosing GitHub it would ask for permission. Grant the permission that are necessary. Once you&amp;rsquo;ve done that a list of all your repositories along with a search bar would appear. You have to choose the repository you uploaded your files into. Now it would ask for few things. All you have to do is change the build command. Type &lt;em&gt;hugo&lt;/em&gt; in the build command. Then go ahead and deploy the site.&lt;/p&gt;
+&lt;p&gt;Your website should now be live. You can check out netlify documentation &lt;a href=&#34;https://docs.netlify.com/integrations/frameworks/hugo/&#34;&gt;here&lt;/a&gt; for more information, or hugo documentation about deploying on netlify &lt;a href=&#34;https://gohugo.io/hosting-and-deployment/hosting-on-netlify/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;ve done to this point, you&amp;rsquo;re ready to have your own microblogging platform. Now everytime you create a file on content folder of your git repository with correct formatting, netlify would automatically rebuild your website and update.  This way any changes you make will automatically be published.&lt;/p&gt;
+&lt;h2 id=&#34;step-4&#34;&gt;Step 4:&lt;/h2&gt;
+&lt;p&gt;Most of the hard work has been done, but there is another thing that you need, unless it would be pretty useless. That is being able to post there quickly using smartphones.&lt;/p&gt;
+&lt;p&gt;I own an android, so this part would be android specific, if you own an iPhone you would have to figure it out yourself.&lt;/p&gt;
+&lt;p&gt;Go to playstore and search for GItJournal. Install this app. &lt;a href=&#34;https://play.google.com/store/apps/details?id=io.gitjournal.gitjournal&#34;&gt;Here&lt;/a&gt; is the link if you cannot find it on the playstore. Open the app and connect to the github repository where all your website files are located.&lt;/p&gt;
+&lt;p&gt;Before you start anything we need to change a few settings. Go to the &lt;em&gt;Storage &amp;amp; File Formats&lt;/em&gt; section and change the default folder for new notes to &lt;em&gt;content&lt;/em&gt; . Inside &lt;em&gt;Note Metadata Settings&lt;/em&gt; turn on &lt;em&gt;Enable YAML Header.  Modified Field&lt;/em&gt; should be set to &lt;em&gt;lastmod&lt;/em&gt;. &lt;em&gt;Created field&lt;/em&gt; should be set to &lt;em&gt;date.&lt;/em&gt;  Set &lt;em&gt;Tags field&lt;/em&gt; to &lt;em&gt;tags.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blackpiratex.com/img/gitjournal-1.png&#34; alt=&#34;image&#34; &gt;&lt;/p&gt;
+&lt;p&gt;As for images set the &lt;em&gt;image location&lt;/em&gt; to  anywhere inside the &lt;em&gt;static&lt;/em&gt; folder. I created a folder inside &lt;em&gt;static&lt;/em&gt; called &lt;em&gt;img&lt;/em&gt; where I keep all my images. Everytime you want to add images to the post use the markdown syntax for images, in case of url it should be &lt;em&gt;/img/duck.png&lt;/em&gt; if you want to show &lt;em&gt;duck.png&lt;/em&gt; to your post. The file should be located inside &lt;em&gt;/static/img/&lt;/em&gt; folder.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blackpiratex.com/img/gitjournal-2.png&#34; alt=&#34;image&#34; &gt;&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion:&lt;/h2&gt;
+&lt;p&gt;It&amp;rsquo;s pretty easy to set up and maintain. Better than Twitter in every way. Maybe I&amp;rsquo;ll do a follow up if I add new features like comments or likes. Until then enjoy:) Don&amp;rsquo;t forget to email me if you get stuck, I&amp;rsquo;ll help you happily.&lt;/p&gt;
+&lt;h2 id=&#34;thanks&#34;&gt;Thanks:&lt;/h2&gt;
+&lt;p&gt;Thanks to  Luke Smith for getting me started on Hugo.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Setting Up My Website on Hugo</title>
+      <link>https://blackpiratex.com/blog/setting-up-my-website-on-hugo/</link>
+      <pubDate>Sun, 24 Jul 2022 17:43:10 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/setting-up-my-website-on-hugo/</guid>
+      <description>&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration:&lt;/h2&gt;
+&lt;p&gt;As far as I can remember, I came to know about &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; from some personal blogs, which I have found through &lt;a href=&#34;https://news.ycombinator.com&#34;&gt;Hacker News&lt;/a&gt;. Before this I was coding everything manually for each blog post. (you can see examples of those &lt;a href=&#34;https://blackpiratex.com/blog&#34;&gt;here&lt;/a&gt;.) And yes it was tedious. I noticed that I spent most of my time making the html and css, instead of writting the actual content. Also the friction involed in getting my post published made me less likely to post. Clearly something needs to change. I started playing with Hugo. And With little bit of research and guides form Youtube, I started learning about it. Decided that I would make my blog separate from my website, that way it would be easier to manage. I initially used &lt;a href=&#34;https://themes.gohugo.io&#34;&gt;premade themes by community&lt;/a&gt; for my website. Themes usually decide how your website will look. (It&amp;rsquo;s just like wordpress themes.) I also created another seprate website on a subdomain for my &lt;a href=&#34;https://gallery.blackpiratex.com&#34;&gt;gallery&lt;/a&gt; website. Premade themes are very good nontheless, but they are not suitable for me. I do not want to use any JS if possible. So I needed to create my own theme. After reading on the Hugo Documentation and taking help from &lt;a href=&#34;https://youtu.be/ZFL09qhKi5I/&#34;&gt;this video&lt;/a&gt; by &lt;a href=&#34;https://lukesmith.xyz&#34;&gt;Luke Smith&lt;/a&gt;, I created my own theme. It is going to be a simple theme, but functional and beautiful.&lt;/p&gt;
+&lt;h2 id=&#34;step-by-step-process-of-creating-this-theme&#34;&gt;Step by step process of creating this theme:&lt;/h2&gt;
+&lt;p&gt;Before you start creating a theme for Hugo you need to create a website first. Open your terminal and type:
+&lt;code&gt;hugo new site new-site&lt;/code&gt;
+&amp;ldquo;new-site&amp;rdquo; is the name of the website. It can be anything.
+You should see a folder named &lt;em&gt;new-site.&lt;/em&gt; At this point your hugo website has been created.
+Now, to create a new theme, run the following command:
+&lt;code&gt;hugo new theme my-new-theme&lt;/code&gt;
+&lt;em&gt;my-new-theme&lt;/em&gt; is the name of the theme. Before you do anything, edit &lt;em&gt;config.toml&lt;/em&gt; file and add the following line:
+&lt;code&gt;theme = my-new-theme&lt;/code&gt;
+Now head over to &lt;em&gt;themes/my-new-theme&lt;/em&gt; folder. We&amp;rsquo;re going to edit stuff inside layouts as for now.
+&lt;em&gt;index.html&lt;/em&gt; file in the layouts folder is the file that decides what would be shown on the home page of your website. In my case, you can see the following code:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{- partial &amp;#34;head.html&amp;#34; . -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    {{- partial &amp;#34;header.html&amp;#34; . -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;all-content&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;h4&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;description&amp;#34;&lt;/span&gt;&amp;gt;{{ .Site.Params.description }}&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;h4&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;posts&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;author&amp;#34;&lt;/span&gt;&amp;gt;Press CTRL+F to search&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;ul&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                {{- range.RegularPages }}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;li&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;post-list&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                    &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;time&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;datetime&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;{{ .Date.Format &amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;2006-01-02T15:04:05Z07:00&lt;/span&gt;&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;}}&amp;#34;&lt;/span&gt;&amp;gt;{{ .Date.Format &amp;#34;2006 Jan 02&amp;#34; }}&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;time&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                    &amp;amp;ndash;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                    &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;{{ .RelPermalink }}&amp;#34;&lt;/span&gt;&amp;gt;{{ .Title }}&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                &amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;li&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;hr&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;post-divider&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            {{ end -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;ul&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    {{- partial &amp;#34;footer.html&amp;#34; . -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;html&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Ignore anything above &lt;em&gt;all-content&lt;/em&gt; div. The &lt;em&gt;h4&lt;/em&gt; tag sets pulls description from the &lt;em&gt;config.toml&lt;/em&gt; in root directory of the website. Hugo has some site wide variables that you can use, (&lt;a href=&#34;https://gohugo.io/variables/site/#the-siteparams-variable&#34;&gt;learn more here&lt;/a&gt;) in this case we are pulling &lt;em&gt;.Site.Params.description&lt;/em&gt; . For this to work you need to have the following lines in your &lt;em&gt;config.toml&lt;/em&gt; file.
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[params]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  author = &amp;#39;Nikola Tesla&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  description = &amp;#34;Tesla&amp;#39;s Awesome Hugo Site&amp;#34;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Just like description you can also pull author with &lt;code&gt;{{ .Site.Params.author }}&lt;/code&gt; variable.&lt;/p&gt;
+&lt;p&gt;Next &lt;code&gt;{{- range.RegularPages }}&lt;/code&gt; is like a for loop. It will run multiple times to list all the &lt;em&gt;Regular Pages&lt;/em&gt;, regular pages are all the post pages of your website. It does not include pages like homepage, tags/catagories page etc. The &lt;code&gt;&amp;lt;time&amp;gt;&lt;/code&gt; tag inside li is what shows the time. In Hugo, you can format time using January 2th 2006, this date. For example if you want to show the date in dd/mm/yyyy format use the following code:
+&lt;code&gt;{{ .Date.Format &amp;quot;02/01/2006&amp;quot; }}&lt;/code&gt;
+&lt;code&gt;{{ .RelPermalink }}&lt;/code&gt; grabs the relative url of those &lt;em&gt;Regular Pages&lt;/em&gt; and &lt;code&gt;{{ .Title }}&lt;/code&gt; would add the title of the page. I have also added an hr tag just for asthetic reasons and now you end the loop by &lt;code&gt;{{ end }}&lt;/code&gt; .
+It should now show all the latest posts of your blog. If you dont have any quickly create one by following command:
+&lt;code&gt;hugo new content/my-new-post.md&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;It would create a new post called My New Post.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blackpiratex.com/img/website-homepage.png&#34; alt=&#34;This is how website homepage will look&#34; &gt;&lt;/p&gt;
+&lt;h3 id=&#34;defaults-folder&#34;&gt;defaults folder&lt;/h3&gt;
+&lt;p&gt;This is the folder named &lt;code&gt;_defaults&lt;/code&gt;, it has 3 files.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;baseof.html&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;single.html&lt;/code&gt; - decides how your post page would look like.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;list.html&lt;/code&gt; - decides how your list page (tag pages, catagory pages) would look like.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;My &lt;code&gt;single.html&lt;/code&gt; page looks like this.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{- partial &amp;#34;head.html&amp;#34; . -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{- partial &amp;#34;header.html&amp;#34; . -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;all-content&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;post-title&amp;#34;&lt;/span&gt;&amp;gt;{{ .Title }}&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;author&amp;#34;&lt;/span&gt;&amp;gt;Posted on {{ .Date.Format &amp;#34;January 02, 2006&amp;#34; }}&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;author&amp;#34;&lt;/span&gt;&amp;gt;By {{ .Site.Params.author }}. {{ .WordCount }} words. Read by {{ .ReadingTime }} minute(s).&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    {{ .Content }}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;author&amp;#34;&lt;/span&gt;&amp;gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;https://github.com/blackpiratelive/blog/blob/main/content/{{ .File.BaseFileName }}.{{ .File.Ext }}&amp;#34;&lt;/span&gt;&amp;gt;edit this page&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;&amp;gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;author&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        This post is tagged with:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        {{ range (.GetTerms &amp;#34;tags&amp;#34;) }}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;span&lt;/span&gt;&amp;gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;{{ .Permalink }}&amp;#34;&lt;/span&gt;&amp;gt;{{ .LinkTitle }}&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;&amp;gt;,&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;span&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        {{ end }}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{- partial &amp;#34;footer.html&amp;#34; . -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;html&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;code&gt;{{ .Content }}&lt;/code&gt;  is all the stuff inside your markdown of the post. Everything else is self explanatory. If you are still struggling to understand, read &lt;a href=&#34;https://gohugo.io/variables/page/&#34;&gt;this page&lt;/a&gt; of hugo documentation.
+&lt;code&gt;{{ range (.GetTerms &amp;quot;tags&amp;quot;) }}&lt;/code&gt; is another loop, which lists all the tags and makes them clickable.&lt;/p&gt;
+&lt;p&gt;Below is my &lt;code&gt;list.html&lt;/code&gt; file:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{- partial &amp;#34;head.html&amp;#34; . -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{- partial &amp;#34;header.html&amp;#34; . -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;all-content&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&amp;gt;Items with
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{ .Title }}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{ .Data.Singular }}&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;ul&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{- range.Pages }}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;li&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;time&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;datetime&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;{{ .Date.Format &amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;2006-01-02T15:04:05Z07:00&lt;/span&gt;&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;}}&amp;#34;&lt;/span&gt;&amp;gt;{{ .Date.Format &amp;#34;2006 Jan 02&amp;#34; }}&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;time&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;amp;ndash;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;{{ .RelPermalink }}&amp;#34;&lt;/span&gt;&amp;gt;{{ .Title }}&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;li&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{ end -}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;ul&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;It lists all the posts that are tagged with same thing. Should not be very hard to understand. Learn more &lt;a href=&#34;https://gohugo.io/templates/lists/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;partials-folder&#34;&gt;partials folder&lt;/h3&gt;
+&lt;p&gt;This folder contains all the header and footer stuff. For example my navbar, along with heading is located inside &lt;code&gt;header.html&lt;/code&gt; file. It&amp;rsquo;s a html file with hugo variables. &lt;code&gt;footer.html&lt;/code&gt; contains my footer. Anything that I need to put inside &lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt; would go inside &lt;code&gt;head.html&lt;/code&gt;. You can attach contents of these by using following code:
+&lt;code&gt;{{- partial &amp;quot;head.html&amp;quot; . -}}&lt;/code&gt;
+This would add all the contents of &lt;code&gt;head.html&lt;/code&gt; into that space.&lt;/p&gt;
+&lt;h3 id=&#34;adding-cssjs-to-the-html&#34;&gt;Adding css/js to the html&lt;/h3&gt;
+&lt;p&gt;So far we have only dealt with html files. Now its time to use css and js to stylize website.
+In the themes folder, open the folder with the name of your theme, in this case open the folder named &lt;em&gt;my-new-theme&lt;/em&gt;. It is located in &lt;code&gt;SITE-ROOT/themes/my-new-theme&lt;/code&gt; directory. You should see a folder named static. If doesn&amp;rsquo;t exist create one. Inside static folder all your css and js will go. I have created another folder named &lt;em&gt;css&lt;/em&gt; for further organization. When hugo complies the actual code the anything inside static folder would be inside root directory. So to link my html and css, add it inside the &lt;code&gt;head.html&lt;/code&gt; file.
+It should look like this:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;link&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;rel&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;stylesheet&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;/css/style.css&amp;#34;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;code&gt;style.css&lt;/code&gt; is the name of the css file.
+Same way you can also add js to your website.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;This is everything that should be enough for you to start making your own theme with Hugo. There&amp;rsquo;s much more to hugo, then what I said here. Feel free to read their documentation if you get stuck. Or you can send me an &lt;a href=&#34;mailto:comments@blackpiratex.com&#34;&gt;email&lt;/a&gt;. Thank you for reading. If I did any mistake somewhere corrections are appriciated. Thank you.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If you have anything to comment about this post, you can mail me at &lt;a href=&#34;mailto:comments@blackpiratex.com&#34;&gt;comments@blackpiratex.com&lt;/a&gt;, I&amp;rsquo;ll be waiting for your email.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Website Update #1</title>
+      <link>https://blackpiratex.com/blog/website-update-1/</link>
+      <pubDate>Fri, 22 Jul 2022 17:46:44 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/website-update-1/</guid>
+      <description>&lt;p&gt;If you have visited my this blog before,(and can remember it) you can clearly see the difference. This blog is now simpler. I like it. Hope you  like it too. As I am going to get busy with my life, I hope I would stick with this theme for very long.&lt;/p&gt;
+&lt;h3 id=&#34;how-this-website-is-made&#34;&gt;How this website is made&lt;/h3&gt;
+&lt;p&gt;I use &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; for creating this website. Hugo is  great. I am loving it. Earlier also I was using Hugo, but that time I didn&amp;rsquo;t know much about it, so I used a ready made theme for my website. This time the theme is mine. That is why it is so minimal. This theme uses only HTML and little bit of CSS, I would tweak as time goes on.  The inspiration came from &lt;a href=&#34;https://lukesmith.xyz&#34;&gt;Luke Smith&lt;/a&gt;, in this &lt;a href=&#34;https://youtu.be/ZFL09qhKi5I/&#34;&gt;video&lt;/a&gt; he explained things about hugo, which has helped me a lot. So I made this. I knew that I was going to make my own theme someday, beacuse I do not like those available.&lt;/p&gt;
+&lt;p&gt;After I learn more about creating hugo themes, or actually how to use hugo, I shall also make new theme for my &lt;a href=&#34;https://gallery.blackpiratex.com&#34;&gt;gallery&lt;/a&gt; website. It looks good, but it is slow. I would try to make it javascript free. Right now it uses so much javascript which makes it slow. I know that Hugo can compress images so I need to figure those things out before I move my gallery website to custom made theme.&lt;/p&gt;
+&lt;h3 id=&#34;suggestions&#34;&gt;Suggestions&lt;/h3&gt;
+&lt;p&gt;I would definitely love to get some feedback about how to improve my website. You can send me email at &lt;a href=&#34;mailto:comments@blackpiratex.com&#34;&gt;comments@blackpiratex.com&lt;/a&gt; regarding this. If you think everything is right, give me few opinions about these -&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Shall I add comments using github issues?&lt;/li&gt;
+&lt;li&gt;Dark mode?&lt;/li&gt;
+&lt;li&gt;Search?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thank you.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If you have anything to comment about this post, you can mail me at &lt;a href=&#34;mailto:comments@blackpiratex.com&#34;&gt;comments@blackpiratex.com&lt;/a&gt;.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fedora Doesn&#39;t Like Me</title>
+      <link>https://blackpiratex.com/blog/fedora-doesnt-like-me/</link>
+      <pubDate>Mon, 27 Jun 2022 14:54:23 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/fedora-doesnt-like-me/</guid>
+      <description>&lt;p&gt;After listening lots of good things about fedora, I wanted to give it a try. I was previously using &lt;a href=&#34;https://archcraft.io/&#34;&gt;Archcraft&lt;/a&gt;, but recently it started to give me few errors. Dolphin won&amp;rsquo;t start for some reason. Same problem with OBS Studio also. I can live without dolphin, but needed obs studio. I got an workaround and used ffmpeg to record screen, but it wasn&amp;rsquo;t as good as obs studio. So I decided to distro-hop like any rational person would (I hope).
+I flashed &lt;a href=&#34;https://www.ventoy.net/en/index.html&#34;&gt;ventoy&lt;/a&gt; on my Samsung Pen Drive and copied the &lt;a href=&#34;https://getfedora.org/en/workstation/&#34;&gt;Fedora workstation&lt;/a&gt; iso file to the pen drive.Installation process went fairly smoothly, I am going to dual boot fedora and windows alongside, so had to do manual partitioning. After booting up I did a system update and installed all the softwares I needed. Everything is working just fine, as expected. After using it for more than a week a few problems started to appear.&lt;/p&gt;
+&lt;h2 id=&#34;gnome-shell-is-crashing&#34;&gt;gnome-shell is crashing&lt;/h2&gt;
+&lt;p&gt;The system would become unresponsive from time to time and gnome-shell will crash multiple times while using my laptop. I think it maybe is becuase of some gnome extensions, but I didn&amp;rsquo;t do much research. My experience wasn&amp;rsquo;t as smooth as I was expecting.&lt;/p&gt;
+&lt;h2 id=&#34;laggy-video-playback-in-all-web-browser&#34;&gt;Laggy video playback in all web browser&lt;/h2&gt;
+&lt;p&gt;It is probably the most annoying of all the problems I have encountered. Videos will get stuck fruquently while playing, it woun&amp;rsquo;t be stuck for long, but enough to notice it. I tried changing video quality to 720p still didn&amp;rsquo;t work. I have intel i7 9th gen, so I do not think this has anything to do with my hardware. This problem happens in both firefox and chromium. The lag is present on youtube and also on curiosity stream. This is the two websites that I checked.&lt;/p&gt;
+&lt;h2 id=&#34;software-availablity&#34;&gt;Software Availablity&lt;/h2&gt;
+&lt;p&gt;I miss AUR, it is just so good. One command and your apps are installed. Fedora has good collection of softwares, But that one or two niche apps that I use are pain in the ass to install. For example I tried installing &lt;a href=&#34;https://www.downloadhelper.net/install-coapp&#34;&gt;VideoDownloadHelper companion app&lt;/a&gt; but it won&amp;rsquo;t install for some reason.&lt;/p&gt;
+&lt;p&gt;I am too lazy to fix all these errors, so here goes my rant. Archcraft is better distro for me. I miss bspwm. So switched back from fedora to archcraft.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simplelogin - Best Way to Manage Your Emails</title>
+      <link>https://blackpiratex.com/blog/simplelogin-best-way-to-manage-your-emails/</link>
+      <pubDate>Sat, 28 May 2022 19:31:47 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/simplelogin-best-way-to-manage-your-emails/</guid>
+      <description>&lt;p&gt;SimpleLogin is a email aliasing service. Which basically means you can create as many emails as you want* and all those emails would land on single inbox. I&amp;rsquo;ve been using SimpleLogin for over a year now. Here&amp;rsquo;s my evaluation of the service. &lt;/p&gt;
+&lt;h2 id=&#34;my-use-case&#34;&gt;My Use Case&lt;/h2&gt;
+&lt;p&gt;As someone who cares about privacy, and had personal emails leaked in data breach previously, I treat emails just like my passwords. I don&amp;rsquo;t want fifty different companies to know my email address just so they can send me marketing emails. Also if you use same email everywhere its pretty easy to stalk you online. Anyone who has your email address would be able to know if you use (or have account) certain website. I don&amp;rsquo;t want others to know which website I visit or which website I have an
+account. &lt;/p&gt;
+&lt;p&gt;Another use case for me is the ability to add my own custom domain in their premium plan. It is better than any other method of hosting email on your own domain. You get unlimited email address, unlimited domains, ability to turn on catch all,  you can even use regex while creating emails using catch all. All the emails I recieve from different website through different email address lands on my protonmail. I can manage my emails from a single place. &lt;/p&gt;
+&lt;h2 id=&#34;features-that-i-like&#34;&gt;Features That I like&lt;/h2&gt;
+&lt;p&gt;SimpleLogin is a powerful tool. And probably one of the most feature rich way of managing emails. Here&amp;rsquo;s list of all the features that I like in SimpleLogin. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;They have apps for all devices that I use.&lt;/li&gt;
+&lt;li&gt;Unlimited custom domain on their premium plan, No one that I know of gives unlimited domain for that cheap. &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One Click Unsubscribe&lt;/strong&gt;: Have you seen those unsubscribe button on gmail? If you have recieved an email which has been forwarded thorugh SimpleLogin you can click that unsubscribe button and simplelogin would disable that alias for you. Pretty handy right?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ability To import and export&lt;/strong&gt;: Simplelogin lets you to export all your aliases created with your domain. That means in future if I need to move away from simplelogin it would be much easier.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ability to use RegEx while creating emails with catch all&lt;/strong&gt;: This means you can make a complex pattern that only you would know, and new emails would be created when that pattern matches only. It is useful if you are worried about spam when enabling catch all.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ability to use PGP&lt;/strong&gt;: You can enable pgp to your mailbox. all incoming and outgoing emails would be encrypted using pgp.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ability to block single email address&lt;/strong&gt;: If there is one guy spamming you and you don&amp;rsquo;t want to disable the alias for some reason, you can block that email address in simplelogin.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;This is some of the features of simplelogin that I use everyday. It has made my life a lot easier, I can reach inbox zero easily. Also now I do not worry about spam when giving out my email to some shady websites. I love SimpleLogin and going to continue using it. If you have never used simplelogin, I urge you to try it out first. Their free plan is very generous.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using Degoogled Phone Isn&#39;t as Hard as You Might Think</title>
+      <link>https://blackpiratex.com/blog/using-degoogled-phone-isnt-as-hard-as-you-might-think/</link>
+      <pubDate>Tue, 17 May 2022 10:27:24 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/using-degoogled-phone-isnt-as-hard-as-you-might-think/</guid>
+      <description>&lt;h2 id=&#34;what-is-a-degoogled-phone&#34;&gt;What is a degoogled phone?&lt;/h2&gt;
+&lt;p&gt;Vanilla Android is &lt;a href=&#34;https://blog.blackpiratex.com/tags/FOSS/&#34;&gt;FOSS&lt;/a&gt; (Free and OpenSource Software), but the android that you get preinstalled in most phones isn&amp;rsquo;t completely FOSS. It has a blackbox, which is called Google Play Services. A lot of android apps and all google apps relies on this. Sure it provides features like instant notification, but privacy is a nightmare. Degoogling a phone means removing this blackbox, by installing a different flavour of Android which doesn&amp;rsquo;t ship with Google Play Services by default.  LineageOs is a popular example.&lt;/p&gt;
+&lt;h2 id=&#34;why-i-did-it&#34;&gt;Why I did it?&lt;/h2&gt;
+&lt;p&gt;Privacy!! That&amp;rsquo;s the major reason. But I get some extra advantages like better battery backup, zero notifications etc. (See below for all the advantages / disadvantages).&lt;/p&gt;
+&lt;h2 id=&#34;how-i-did-it&#34;&gt;How I did it&lt;/h2&gt;
+&lt;p&gt;I own two phones. The phone I used for degoogling is Redmi K20 pro, (indian version).
+I installed &lt;a href=&#34;https://octavi-os.com/&#34;&gt;Octavi Os&lt;/a&gt;. It is very very feature rich and customisable. In my ecperience it is very stable. It has both gapps (with Google Play Services) and vanilla (without Google Play Servuces) version. I went with vahttps://calyxos.org/nilla version.
+(I didn&amp;rsquo;t go with &lt;a href=&#34;https://e.foundation/e-os/&#34;&gt;E Os&lt;/a&gt; , &lt;a href=&#34;https://grapheneos.org/&#34;&gt;Graphene Os&lt;/a&gt; or &lt;a href=&#34;https://calyxos.org/&#34;&gt;Calayx Os&lt;/a&gt; simply because my device does not supports it.) After flashing vanilla version you have a choice to flash gapps or not, and becuase I am trying to degoogle my phone, I am not going to flash gapps. The vanilla version does not comes with any web browser out of the box. So connected my phone to my laptop through usb and transffered &lt;a href=&#34;https://bromite.org&#34;&gt;Bromite&lt;/a&gt;. At this point my phone is very much ready to use.&lt;/p&gt;
+&lt;h2 id=&#34;apps-that-i-use&#34;&gt;Apps that I use&lt;/h2&gt;
+&lt;p&gt;I try to stick with &lt;a href=&#34;https://blog.blackpiratex.com/tags/FOSS/&#34;&gt;FOSS&lt;/a&gt; (Free and OpenSource Software) apps as much as possible. My main source of apps is &lt;a href=&#34;https://f-droid.org/&#34;&gt;F-Droid&lt;/a&gt; along with &lt;a href=&#34;https://auroraoss.com/&#34;&gt;Aurora Store&lt;/a&gt; (For those apps which are not avilable on Fdroid). I have added few extra F-Droid repositories.&lt;/p&gt;
+&lt;p&gt;Below is a list of all the apps that are currently installed on my device.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://brave.com/&#34;&gt;Brave Browser&lt;/a&gt; - My main browser&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bromite.org&#34;&gt;Bromite&lt;/a&gt; - Secondary Browser&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mozilla.org/en-US/firefox/new/&#34;&gt;Firefox NIghtly&lt;/a&gt; - I have it installed because I was using it previously, but do not use it now. Might uninstall later.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bitwarden.com/&#34;&gt;Bitwarden&lt;/a&gt; - Opensource Password Manager with cross device syncing.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.simplemobiletools.com/&#34;&gt;Simple Mpbile Tools&lt;/a&gt; - It&amp;rsquo;s not a single app, but rather a collection of apps. I currently use their &lt;strong&gt;Calculator, Clock, Contacts, Draw, Gallery, Keyboard, SMS Messenger, Thank You, Voice Recorder&lt;/strong&gt; apps. I would very much like to use their &lt;strong&gt;Phone&lt;/strong&gt; app, but it doesn&amp;rsquo;t let you turn of speaker while calling. The problem with their Music Player app is that it doesnt let to scrobble.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/GrapheneOS/Camera&#34;&gt;Graphene Os Camera&lt;/a&gt; - Because of no google play services support, normal gcam mod does not work. This camera app is very simple and gets the job done. &lt;em&gt;They even have QR reader built into it, yay!!!&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.davx5.com/&#34;&gt;DAVx5&lt;/a&gt; - I use this app to sync my contacts using &lt;a href=&#34;https://fruux.com/&#34;&gt;Fruux&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://f-droid.org/en/packages/com.tachibana.downloader/&#34;&gt;Download Navi&lt;/a&gt; - It is my primary download manager. Although I use 1DM from time to time.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://element.io/get-started&#34;&gt;Element&lt;/a&gt; - It is my Matrix client. I may change it later.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://f-droid.org/en/packages/de.marmaro.krt.ffupdater/&#34;&gt;FFUpdater&lt;/a&gt; - This app is used to update all my web browsers.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jarnedemeulemeester/findroid&#34;&gt;Findroid&lt;/a&gt; - My Jellyfin client, Avilable on F-Droid through Izzydroid repo.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/yang991178/fluent-reader&#34;&gt;Fluent Reader&lt;/a&gt; - My RSS reader app. Probably the &amp;ldquo;best&amp;rdquo; looking RSS reader app for Android. I use it with &lt;a href=&#34;https://www.inoreader.com/&#34;&gt;Inoreader&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Infinity&lt;/a&gt; - This is a reddit client. It is opensource and has decent amount of features.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://f-droid.org/en/packages/com.chooloo.www.koler&#34;&gt;Koler&lt;/a&gt; - Opensource Dialer app with minimal features.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://letterboxd.com/&#34;&gt;LetterBoxD&lt;/a&gt; - I use it to track movies that I have watched and find new movies.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/proninyaroslav/libretorrent&#34;&gt;Libretorrent&lt;/a&gt; - I don&amp;rsquo;t do torrenting much on my phone, but have it on my phone, just in case.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.adobe.lrmobile&amp;amp;hl=en_US&amp;amp;gl=US&#34;&gt;Adobe Lightroom&lt;/a&gt; - Wish there was a good opensource alternative for this. I like lightroom because you can download presets and apply it without having to do the hard work by yourself.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joinmastodon.org/apps&#34;&gt;Mastodon&lt;/a&gt; - Mastodon official client.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mixplorer.com/&#34;&gt;Mixplorar&lt;/a&gt; - A file manager. It is probably the &lt;strong&gt;best&lt;/strong&gt; file manager for android. Has built in tabs support, ability to add almost any cloud storage etc, (I should probably make a post about this app). It is not opensource.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mpv-android/mpv-android&#34;&gt;mpv&lt;/a&gt; - It is my alternative video player. sometimes use it.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nekogram.app/&#34;&gt;Nekogram&lt;/a&gt; - Opensource telegram app. I was previously using Plus messanger, but now starting to switch to nekogram.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=org.telegram.plus&amp;amp;hl=en_US&amp;amp;gl=US&#34;&gt;Plus Messanger&lt;/a&gt; - Telegram features with extra features, closed source.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/TeamNewPipe/NewPipe&#34;&gt;NewPipe&lt;/a&gt; and &lt;a href=&#34;https://github.com/polymorphicshade/NewPipe/&#34;&gt;NewPipe x Sponsorblock&lt;/a&gt; - I was planning to move away from using official youtube app. Newpipe is a frontend for youtube. It has all the features that I need, but super buggy, non useable for primary youtube app.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://f-droid.org/en/packages/com.github.ashutoshgngwr.noice&#34;&gt;Noice&lt;/a&gt; - Opensource white noise app. Whenever I have trouble getting into sleep I put on my earphones, and try to sleep while listening.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kawaiiDango/pScrobbler&#34;&gt;Pano Scrobbler&lt;/a&gt; - Last.fm and libre.fm scrobbler. Opensource.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.plex.tv/&#34;&gt;Plex&lt;/a&gt; - Jellyfin is good, but I have a hard time configuring it. So I have plex as alternative. Just wish that plex worked without internet connection.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://getpocket.com/en/&#34;&gt;Pocket&lt;/a&gt; - My read later app.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://protonapps.com/&#34;&gt;Proton Apps&lt;/a&gt; - I use &lt;a href=&#34;https://protonmail.com&#34;&gt;ProtonMail&lt;/a&gt;, &lt;a href=&#34;https://protonvpn.com&#34;&gt;ProtonVPN&lt;/a&gt;, and &lt;a href=&#34;https://calendar.protonmail.com/&#34;&gt;Proton Calender&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://raindrop.io&#34;&gt;Raindrop&lt;/a&gt; - Bookmark manager. Opensource.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://readwise.io&#34;&gt;Readwise&lt;/a&gt; - A service that lets you organize all your highlights from different places.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=grape.k.readwiseapp&amp;amp;gl=US&#34;&gt;Readwise WIdget&lt;/a&gt; - A simple app that lets you add an widget to your home screen which shows your readwise highlights.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/topjohnwu/Magisk&#34;&gt;Magisk&lt;/a&gt; - Rooting app for android. Opensource.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.michaldrabik.showly2&#34;&gt;Showly&lt;/a&gt; - It is a tv show tracker which syncs with trakt.tv.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://simplelogin.io&#34;&gt;SimpleLogin&lt;/a&gt; - It is an email aliasing service that lets you create aliases for each and every website. I also use this service to host email on my domain.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://simplenote.com&#34;&gt;Simplenote&lt;/a&gt; - A note taking app focuused on simplicity. I use it to write something down quickly.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://snapdrop.net&#34;&gt;Snapdrop&lt;/a&gt; - Airdrop like app for android. Open Source.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://spotify.com&#34;&gt;Spotify&lt;/a&gt; - My music streaming app of choice.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup&amp;amp;hl=en_US&amp;amp;gl=US&#34;&gt;Swift Backup&lt;/a&gt; - This is probably one of the first apps that I would install on any new device. It lets you to take backup of your apps with app data and sync it to the cloud. Since I change roms quiute often it is useful for me to be able to restore any app in its current state. Closed source.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ticktick.com/&#34;&gt;Tick Tick&lt;/a&gt; - Todo list app. Closed Source&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://torproject.org&#34;&gt;Tor Browser&lt;/a&gt; - This doesn&amp;rsquo;t require any description.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tutanota.com&#34;&gt;Tutanota&lt;/a&gt; - Email client for tutanota.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/AdrienPoupa/VinylMusicPlayer&#34;&gt;Vinyl&lt;/a&gt; - Offline music player to play my mp3s.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.videolan.org/vlc/&#34;&gt;VLC&lt;/a&gt; - Open source feature rich video player.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://whatsapp.com&#34;&gt;WhatsApp &amp;amp; WhatsApp Business&lt;/a&gt; - Main text messaging app for my phone.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vancedapp.com&#34;&gt;Youtube Vanced&lt;/a&gt; - Even though vanced has been discontinued it still works so I would keep using it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;advantages&#34;&gt;Advantages&lt;/h2&gt;
+&lt;p&gt;There is few advantages of using a degoogled phone. The obvious one is privacy. While it is true that using a degoogled phone makes you more private from google, it has other advantages too. Your battery backup would be excellent. Around 9-10 hours in single charge for a 4000mAh battery. I have noticed less heating while using degoogled phone. Phone is also faster than it outherwise be with google apps.&lt;/p&gt;
+&lt;h2 id=&#34;disadvantages&#34;&gt;Disadvantages&lt;/h2&gt;
+&lt;p&gt;Depending on how much you are into google ecosystem disadvantages can be almost none or very much. For me I only use google photos and youtube. Google photos does not work obviously, but you can youtube get working with youtube vanced. As for google photos I have decided to keep it locally and then take backup to my laptop every month or so. Google maps does not work at all. (even with microg I cannot get it working properly). Other than these few problems there is nothing that effects me.
+Now let&amp;rsquo;s talk about all the other problems that you are likely to face if you are using android with Google Play Services.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Notifications might not work if its dependent on Google Play Services.&lt;/li&gt;
+&lt;li&gt;No Google Play Store, that means all your purchases won&amp;rsquo;t work. (You can get them working by using microg).&lt;/li&gt;
+&lt;li&gt;Gcam does not work out of the box. There is an app that can fix this issue hopefully but I haven&amp;rsquo;t tested it yet.&lt;/li&gt;
+&lt;li&gt;Banking apps won&amp;rsquo;t work. You can get them work with microg and magisk.&lt;/li&gt;
+&lt;li&gt;Safety net won&amp;rsquo;t pass. You can make them pass with magisk and microg.&lt;/li&gt;
+&lt;li&gt;If you are used to use &amp;lsquo;Login with Google&amp;rsquo; you would either have to set a password for that app or create new account with email and password.&lt;/li&gt;
+&lt;li&gt;A lot of apps would even refuse to open if you don&amp;rsquo;t have google play services installed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Despite its disadvantages you might want to try degoogling your phone, at least once and see if its going to work for you or not. If you are using propietory software most of the times, maybe you might wanna switch to FOSS alternatives. Most FOSS apps are not relient on Google Play Services.&lt;/p&gt;
+&lt;p&gt;Most fundamental things like calling or texting works without any hiccups. It is very much possible to live with a degoogle phone and avoid big tech as much as possible.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>In Search for Perfect Daily Journal App</title>
+      <link>https://blackpiratex.com/blog/in-search-for-perfect-daily-journal-app/</link>
+      <pubDate>Thu, 28 Apr 2022 00:08:39 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/in-search-for-perfect-daily-journal-app/</guid>
+      <description>&lt;p&gt;To be considered a viable app for my Daily Journal needs it must have following charateristics.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Decent UI&lt;/li&gt;
+&lt;li&gt;Either end to end encrypted if the app is cloud based or data stays locally.&lt;/li&gt;
+&lt;li&gt;Cross platform. Including Linux.&lt;/li&gt;
+&lt;li&gt;Easy way to export for personal backups.&lt;/li&gt;
+&lt;li&gt;Free&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Because of lack of privacy at my home, I had moved away from physical pen and paper diaries and moved completely to digital. It&amp;rsquo;s much easier to hide something online than trying to hide at my home.&lt;/p&gt;
+&lt;h2 id=&#34;evernote&#34;&gt;Evernote&lt;/h2&gt;
+&lt;p&gt;At the very begining, circa 2017, I used &lt;a href=&#34;https://evernote.com&#34;&gt;Evernote&lt;/a&gt; Evernote was good back then. The 60mb that you get in free tier of evernote was more than enough for text based notes. I created a Notebook and used to add the date as title. It wasnt perfect. Writting date each and every day as note title is a tedious task. The search continues.&lt;/p&gt;
+&lt;h2 id=&#34;some-unknown-app&#34;&gt;Some Unknown App&lt;/h2&gt;
+&lt;p&gt;I found an app from playstore. I dont remember the name.  It was paid but i got it on a deal. Didn&amp;rsquo;t have to pay anything. It was okay. Like not much features. Your data is stored locally. Although it had option to sync to dropbox. I used the sync feature. Sadly I dont think the app is alive. I maybe able to find it if I scroll back to my google play purchase history, but I don&amp;rsquo;t have that much patience. Unfortunately all the entries from that app is gone. I dont remember the droobox
+account either.&lt;/p&gt;
+&lt;h2 id=&#34;daybook&#34;&gt;Daybook&lt;/h2&gt;
+&lt;p&gt;Next app that I used was &lt;a href=&#34;https://daybook.app&#34;&gt;Daybook&lt;/a&gt; , it was very minimal and decent app. It had lots of feature but free version was kinda limited. Still the UI and simplicity was the reason for using that app. But at the end one thing that put me off was their privacy policy. It was neither end to encrypted nor it had good privacy policy.&lt;/p&gt;
+&lt;h2 id=&#34;notion&#34;&gt;Notion&lt;/h2&gt;
+&lt;p&gt;At this point I was using &lt;a href=&#34;https://notion.so/&#34;&gt;Notion&lt;/a&gt; and started to love it. Notion had so many great features that I loved. Ability to make templates was one of them. Notion also supports basic markdown.  I remember using notion for like two months before the problems starts to appear.
+Notion was online only, that means I cannot write my daily journal if my wifi was off. It doesn&amp;rsquo;t happen that often, but it was a possibility. Also if I go outside for few days, there would be no gurantee if I would be able to connect to the internet. It also bothered me that notion android app was basically a web app. Which means it was laggy, and doesn&amp;rsquo;t feel as smooth as native app.  The last thing that made me switch to Standard Notes was bad security and
+privacy. Notion also is not end to end encrypted. They don&amp;rsquo;t even offer 2 step verification.&lt;/p&gt;
+&lt;h2 id=&#34;standard-notes&#34;&gt;Standard Notes&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://standardnotes.com&#34;&gt;Standard Notes&lt;/a&gt; was very good. I used their free version only, but still it was better than all previous apps that I have used. Security and privacy is great. They use end to end encryprion, and yes you cannot recover your password if you have lost it. They had apps for all the platforms. You can lock any particular note with another pin. It has theming support. If you get their premium version you&amp;rsquo;d get access to extensions which extends it&amp;rsquo;s
+functionality.  I used it for a very long time before considering to switch.
+Their free version is just plain text, nothing else. Sure you can use community made extensions to get markdown editors or different themes, but it wasn&amp;rsquo;t as good. There were also no support for images, I  do not know if images support was avilable on paid plans or not. There were no support for templates. Themes are quite a bit limited on free version. These were the main reason I didn&amp;rsquo;t stick with standard notes.&lt;/p&gt;
+&lt;h2 id=&#34;joplin&#34;&gt;Joplin&lt;/h2&gt;
+&lt;p&gt;After I was bored I switched to &lt;a href=&#34;https://joplinapp.org/&#34;&gt;Joplin&lt;/a&gt;. It is also one very good app. It supports templates, there is few options when it comes to themes, it also has plugin support. I used joplin for a good amount of time, but I don&amp;rsquo;t remember much about it because it has nothing interesting about it. It is opensource and by deafult does not sync to any cloud, (I think they have a paid plan now that lets you to sunc to their cloud). Even though their desktop app was decent
+android app sucked. The UI looks so outdated, it doesn&amp;rsquo;t have all the features that the desktop version has. Android app is also not very smooth. It has the ability to sync to dropbox but the sync is so slow. And if you have enabled end to end encryption through the settings, good luck getting it working properly. Keep in mind that most problems I had with this app is in their android app, beacuse thats what I used to use to write my journals.&lt;/p&gt;
+&lt;h2 id=&#34;obsidian&#34;&gt;Obsidian&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://obsidian.md&#34;&gt;Obsidian&lt;/a&gt; is the current app I am using. I absolutely love this app. It uses normal markdown files for each and every note, you can create normal folders inside obsidian and it would show the folders. Because each and individual notes are just simple .md files you can open them using any kind of text editor you prefer. Right now I am using Vim to edit this text. Obsidian is not open source but it can work offline, only time it needs to connect to the internet
+is when downloading themes or plugins. Yes it supports themes, and I am pretty sure you can add your own css to obsidian. It also has template feature inbuilt, you can make it even more powerful with plugins. You can link your notes to another notes(Just like Roam Research, but you can only link a particular note and not a paragraph), and you can view a graph view which shows which note is linked with which. It is useful for me in so many cases, and not a lot of apps does that.
+Everything is offline in obsidain by default, which may sound like a drawback if you want to sync your data with multiple devices, but it is not. Sure it is not as straightforward as installing an app and logging in, but you can make it work. I personally use DropBox (I would move to nextcloud once I get my nextcloud server running on raspberry pi) to sync my files. In linux and windows you can use the official dropbox app to sync the obsidian folder, and on Android you can use AutoSync
+to sync to dropbox.
+Obsidian can be very powerful if you want it to be, but it can be simple too. Third party plugins can extend the functionality of the app. &lt;em&gt;Plugins are also supported by their android app!!! How cool is that?&lt;/em&gt;
+Obsidian is very good at what it does. But by no means it is perfect. It is bit tricky to set up sync on your devices,(like I have mentioned above) and even if you are able to set it up properly, you might get conflicts. It doesn&amp;rsquo;t bother me because I am used to it at this point but I can see how this would make others annoyed.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;There  is so many things an app needs to get right before I would use it for long, and yes I may not be the &amp;lsquo;general user&amp;rsquo;, So if you use any of the apps from above tell me what made you stick with it?
+I am happy with obsidian as of now and not planning to switch anytime soon. Maybe someday when I learn vim or emacs enough to make obsidian obselete.&lt;/p&gt;
+&lt;p&gt;This post was last updated on: 27/04/2022&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digital Journaling Is Better Than Physical Journaling</title>
+      <link>https://blackpiratex.com/blog/digital-journaling-is-better-than-physical-journaling/</link>
+      <pubDate>Sat, 23 Apr 2022 20:18:34 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/digital-journaling-is-better-than-physical-journaling/</guid>
+      <description>&lt;h2 id=&#34;better-privacy&#34;&gt;Better Privacy&lt;/h2&gt;
+&lt;p&gt;A daily journal is probably going to be one of the most private thing in your life. Because I know for a fact that, doesn&amp;rsquo;t matter how close you are to me I&amp;rsquo;m never going to share my journal with anyone but me.
+If you are able to write digitally right way then it is very much possible to have greater privacy than that you&amp;rsquo;d get in physical journal. If you dont live alone, then its possible they can sneak into your journal. Even if I trust that person completely I&amp;rsquo;ll still be more comfortable knowing that he/she cannot access it.&lt;/p&gt;
+&lt;h2 id=&#34;easy-to-backup&#34;&gt;Easy to backup&lt;/h2&gt;
+&lt;p&gt;It might not seem like something that is necessary for you, but for me backups are most important part of a journal. If I cannot read my journal entries 10-20 years into the future, then why bother writting it in the first place? Journals are sonething that I want to keep till the day I die.
+You might argue that paper will last longer than lets say your hdd or any kind of digital storage, and you are right. But the problem is that in paper it is harder to copy, and maintain. You would to worry about pages turning yellow, different types of insects harming the paper, or worse some kind of disaster happening (like fire, water etc) and ruining your paper. You would be lose everything at once. Yes sure if you want to go to the extra mile you can make a xerox copy of your journals and it would medigate this problem. But it would easily get expensive as time goes on.&lt;br&gt;
+On the other hand if you write digitally it would be so much easier to make backups of your journal. You can copy the containing folder and back it up somewhere else. Or if you are using something like &lt;!-- raw HTML omitted --&gt;Notion&lt;!-- raw HTML omitted --&gt; or &lt;!-- raw HTML omitted --&gt;Evernote&lt;!-- raw HTML omitted --&gt; they all have some kind of export method. (You should not be using any writting app anyway which does not let you export your data easily.)&lt;/p&gt;
+&lt;h2 id=&#34;customization&#34;&gt;Customization&lt;/h2&gt;
+&lt;p&gt;There is theoratically no limit to how you would customise your journal. If you do not like a certain program you can always move to another, if you are still not satisfied to all the options you can write your own, well it would take time, but it is possible. Or you can use simple markdown files. With any text editors, let it be simple notepad or vim.&lt;/p&gt;
+&lt;h2 id=&#34;less-bulky&#34;&gt;Less Bulky&lt;/h2&gt;
+&lt;p&gt;Digital journals are less bulky, you do not need any significant extra space at your home for digital journals. I have my journals from 2018 written digitally and they are just a few megabytes. Granted I do not write everyday and do not include much medias, (they are mostly plain texts with little bit of formatting here and there), it is still very little amount of files.&lt;/p&gt;
+&lt;h2 id=&#34;easier-to-write&#34;&gt;Easier to write&lt;/h2&gt;
+&lt;p&gt;It is significantly easier to write on keyboard than to use pen or paper. There is usually significant speed benifits, and automation, which I&amp;rsquo;ll explain on next point.&lt;/p&gt;
+&lt;h2 id=&#34;automation&#34;&gt;Automation&lt;/h2&gt;
+&lt;p&gt;You can automate things in your digital journal. If you are someone like me who likes to answer questions in form of Journal (ex: &lt;!-- raw HTML omitted --&gt;What did you do today?&lt;!-- raw HTML omitted --&gt;), you can make a template of your writting software so that everyday when you open your journal you start from your template instead starting form a blank page. Yes theoritically you can do the same on physical paper too, but it is easier digitally, and much much more advanced. I shall write a blog post about it someday.&lt;/p&gt;
+&lt;h2 id=&#34;ability-to-search-and-reference-back&#34;&gt;Ability to search and reference back&lt;/h2&gt;
+&lt;p&gt;Its easier to search a page or a mention of a specific thing on your journal. If you wrie digitally.
+You can also reference back your old journals if necessary easily. For example you can have a page that would contain all the days where youn done something X, you can reference that page each time you do the X. I&amp;rsquo;ts bit advanced  stuff, but yes it would be helpful when you look back at the year or the decade.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Physical form of journaling has its advantages there is no doubt about that, but personally I prefer Digital ones. The beauty of digital journalism is that it can be as much complex as you want it to be, it can perfectly as you like it. Given that you are comfortable giving your time and energy to it. If you want a place to dump your brain and trying to lower your screen on time, then maybe you would be better off with physical ones, but for most people I think digital journal is much better than physical ones.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why I Love Tiling Window Manager</title>
+      <link>https://blackpiratex.com/blog/why-i-love-wm/</link>
+      <pubDate>Wed, 30 Mar 2022 20:13:52 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/why-i-love-wm/</guid>
+      <description>&lt;p&gt;Tiling Window Manager is alternative to using full blown desktop environment. &lt;a href=&#34;https://wiki.archlinux.org/title/window_manager&#34;&gt;More info on ArchWiki&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I have recently started using WM, first i3 now on openbox. And absolutely love it.&lt;/p&gt;
+&lt;p&gt;If you are someone who is used to use normal desktop environment like gnome, kde, xfce or any other &lt;a href=&#34;https://wiki.archlinux.org/title/desktop_environment&#34;&gt;DE (Desktop Environment)&lt;/a&gt;, I&amp;rsquo;d suggest to try out WM.You can start with anyone of those window manager you&amp;rsquo;re comfortable with. Setting up wm is easy on fresh arch install so it shouldn&amp;rsquo;t be a barrier.&lt;/p&gt;
+&lt;h3 id=&#34;you-can-do-everything-using-keyboard-shortcuts&#34;&gt;You can do everything using keyboard shortcuts.&lt;/h3&gt;
+&lt;p&gt;Opening windows, closing windows, moving to different workspaces etc, can be done using keyboard shortcuts. It took me few days to get used to use keyboard shortcuts but now i can say it&amp;rsquo;s miles better than using mouse.&lt;/p&gt;
+&lt;h3 id=&#34;one-window-doesnt-cover-another&#34;&gt;One window doesn&amp;rsquo;t cover another&lt;/h3&gt;
+&lt;p&gt;Yes it doesn&amp;rsquo;t (by default), and why the hell would you want to keep one window on top of another?&lt;/p&gt;
+&lt;h3 id=&#34;easily-customizable&#34;&gt;Easily customizable&lt;/h3&gt;
+&lt;p&gt;I open up documentation in one workspace and vim with config file opened in another workspace. Changing everything is as easy as editing a text file. Documentations are mostly gets the job done, but if still doesn&amp;rsquo;t work one quick brave Search or youtube search does it.&lt;/p&gt;
+&lt;h3 id=&#34;loading-others-configuration&#34;&gt;Loading other&amp;rsquo;s configuration&lt;/h3&gt;
+&lt;p&gt;Sometimes I don&amp;rsquo;t wanna configure everything by myself, so I&amp;rsquo;d go &lt;a href=&#34;https://reddit.com/r/unixporn&#34;&gt;r/unixporn&lt;/a&gt; and load other&amp;rsquo;s configuration. And  &lt;em&gt;voilà&lt;/em&gt; its done. Well in reality I still have to open the config file and tweak here and there, but it&amp;rsquo;s usually &amp;rsquo;less time consuming&#39;.&lt;/p&gt;
+&lt;h3 id=&#34;forces-you-to-use-the-terminal&#34;&gt;Forces you to use the terminal&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;m a pretty new when it comes to Linux. Although terminal doesn&amp;rsquo;t scare me anymore, I sometimes still think using terminal is hard. Using a wm forces me to use terminal when possible.&lt;/p&gt;
+&lt;h3 id=&#34;texts--icons&#34;&gt;Texts &amp;raquo;&amp;gt; Icons&lt;/h3&gt;
+&lt;p&gt;I have never been a fan of icons, I&amp;rsquo;d prefer simple texts over icons any day. A window manager normally doesn&amp;rsquo;t have icons.&lt;/p&gt;
+&lt;h3 id=&#34;its-minimal-less-distracting-more-productive&#34;&gt;Its minimal, less distracting, more productive&lt;/h3&gt;
+&lt;p&gt;I don&amp;rsquo;t spend any time trying to arrange my opened tabs. (Suck on that Windows users) I&amp;rsquo;d open a programme because I want to open it, not because I was sitting mindlessly and getting bored.&lt;/p&gt;
+&lt;h3 id=&#34;elitism-feeling&#34;&gt;Elitism Feeling&lt;/h3&gt;
+&lt;p&gt;It comes with the OS, if you&amp;rsquo;re a Linux user you know what I&amp;rsquo;m taking about.&lt;/p&gt;
+&lt;h1 id=&#34;in-conclusion&#34;&gt;In conclusion:&lt;/h1&gt;
+&lt;p&gt;If you are still not convinced, I&amp;rsquo;ll suggest you give it a try, take a break from conventional way of managing windows and embrace the new. You can always go back to doing things your way.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PS:&lt;/strong&gt;  I use Arch BTW&lt;/p&gt;
+&lt;p&gt;Post was last updated on July 1, 2023.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Experience With Various Password Managers</title>
+      <link>https://blackpiratex.com/blog/my-experience-with-various-password-managers/</link>
+      <pubDate>Tue, 09 Nov 2021 18:53:53 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/my-experience-with-various-password-managers/</guid>
+      <description>&lt;p&gt;Throughout the years i have used many password managers. One of the biggest reasons I started using a password manager is not because of the security but rather I wanted a quick way to type my passwords. Also its easy for me to loose track of the websites I have signed up for. Now you may ask why I didn&amp;rsquo;t use something like password manager built in most modern web browser? Well the answer to that question is I wanted all my passwords to sync to different browsers.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h3&gt;
+&lt;p&gt;Before starting I want to clear some things first. This review is based on my overall experience. I have only android devices and windows and linux. Your mileage may vary if you are on different devices.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;lastpass&#34;&gt;&lt;strong&gt;LastPass&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://lastpass.com/&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pros -&amp;gt; There is seriously none. Only reason to use it would be you&amp;rsquo;re into their ecosystem and can&amp;rsquo;t get out, or you have to use it for work.&lt;/li&gt;
+&lt;li&gt;Cons:
+&lt;ol&gt;
+&lt;li&gt;Android app is terrible. The UI looks outdated. Android app is filled with trackers.&lt;/li&gt;
+&lt;li&gt;Has very serious security flaws throughout the years. &lt;a href=&#34;https://en.wikipedia.org/wiki/LastPass#Security_issues&#34;&gt;More Info&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Free version is unusable.&lt;/li&gt;
+&lt;li&gt;You cannot export your 2fa seeds if you ever plan to move to a new password manager. (Its necessary feature to have if you are planning to future proof your passwords or 2fa seeds.)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;bitwarden&#34;&gt;Bitwarden&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://bitwarden.com/&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pros:&lt;/strong&gt; There is lot to love in Bitwarden.
+&lt;ol&gt;
+&lt;li&gt;Security is flawless. Their apps are open source, You can self host your own instance if you want to.&lt;/li&gt;
+&lt;li&gt;Privacy is also top notch. Android apps don&amp;rsquo;t contain any kind of trackers.&lt;/li&gt;
+&lt;li&gt;Has wide range of supported devices.&lt;/li&gt;
+&lt;li&gt;Probably the best free version of all the password managers. You would have to pay only if you need document support or want to generate TOTP.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Cons: These might sound like nitpicking.
+&lt;ol&gt;
+&lt;li&gt;&lt;del&gt;I can&amp;rsquo;t like the android app ui. It doesn&amp;rsquo;t feel modern. It isn&amp;rsquo;t laggy but feels sluggish.&lt;/del&gt;  Update 29/04/2022: I am not bothered by it now, but yes sometimes Bitwarden lags while trying to autofill.&lt;/li&gt;
+&lt;li&gt;Their premium version is only 10$ per year, yes its hella cheap, but not in devloping countries. I wish they did regional pricing (I would definitely pay for it.)&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;d love to have an option where I can upload the encrypted data to a cloud drive. Its like self hosting only the data. (1password and enpass can do this.)&lt;/li&gt;
+&lt;li&gt;Lack of document support in free version.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;1password&#34;&gt;1password&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://1password.com/&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pros:&lt;/strong&gt;&lt;br&gt;
+1.  If you&amp;rsquo;re willing to pay for a password manager this can be a great choice.
+2. Absolutely a lot of features that you might find useful. For example password history, ability to add any custom field and section to store different types of information.
+3. You can choose to store all the encrypted data to your own choice of cloud storage, like dropbox or google drive.
+4. There&amp;rsquo;s no trackers in android apps and windows apps.
+5. Ability to have multiple vaults,  but Enpass&amp;rsquo;s implementation is better.
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cons:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;You cannot upload documents if you choose to store passwords by yourself (kinda like self hosting but not really) I mean one of the main reason to self host is that you can get document storage as much as you need. Even dropbox free gives 2GB (which can be increased to 18GB) which is much better than 1GB storage that you get in your subscription.&lt;/li&gt;
+&lt;li&gt;It is not open source at all. But they didn&amp;rsquo;t have any data breach or anything that I can find out.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;enpass&#34;&gt;&lt;strong&gt;Enpass&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.enpass.io/&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pros:&lt;/strong&gt;
+1. Extremely feature rich. It has everything you can ask for in a password manager.
+2. It works without any account or without internet connection at all. Although you&amp;rsquo;ll need internet connection to sync across devices which is optional.
+3. Ability to have multiple vaults, (1Password has this feature too but in my opinion enpass&amp;rsquo;s implementation is better.)
+4. There&amp;rsquo;s no limit of how many data (passwords, documents, notes) you can store.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cons:&lt;/strong&gt;
+&lt;ol&gt;
+&lt;li&gt;All apps are closed source.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;dashlane&#34;&gt;Dashlane&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dashlane.com/&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pros:-&lt;/strong&gt;
+1. The user interface is very simple.
+2. Beginner-normie Friendly
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cons:-&lt;/strong&gt;
+&lt;ol&gt;
+&lt;li&gt;Nothing is open source. Privacy is meh.&lt;/li&gt;
+&lt;li&gt;Features are very limited. Last time I checked they didn&amp;rsquo;t even had option for custom fields.&lt;/li&gt;
+&lt;li&gt;No Desktop Application, You&amp;rsquo;ll have to use their web app or extension.&lt;/li&gt;
+&lt;li&gt;Free version doesn&amp;rsquo;t sync.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;keepass&#34;&gt;&lt;strong&gt;Keepass&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://keepass.info/&#34;&gt;Website&lt;/a&gt;
+I have used keepass only briefly, I have multiple devices, so I need to access my keepass file everywhere, which is not an easy task to do with keepass.
+I know that it is achieveable, but it sure is not as straightforward as something like bitwarden or enpass. I tried using &lt;a href=&#34;https://www.keepassdx.com/&#34;&gt;KeePassDX&lt;/a&gt; with dropbox sync, and it gets conflict so often. So it gets pretty unuseable. I may start using it again once I figure out how to get sync working properly.&lt;/p&gt;
+&lt;p&gt;Of all the password managers I have used my favourite would be Bitwarden, Enpass is a close second. If closed source stuff does not bother you and you want extra fatures, you can use Enpass or 1Password. I personally would prefer enpass more than 1Password. Currently as of April 2022 I aPeriod.m using Bitwarden. Earlier I was using enpass, only reason I moved away from enpass is beacuse of it&amp;rsquo;s closed source nature. For something as important as password manager, it should be open source.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If you have anything to comment about this post, you can mail me at &lt;a href=&#34;mailto:comments@blackpiratex.com&#34;&gt;comments@blackpiratex.com&lt;/a&gt;, I&amp;rsquo;ll be waiting for your email.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nextdns Review</title>
+      <link>https://blackpiratex.com/blog/nextdns-review/</link>
+      <pubDate>Fri, 21 May 2021 14:35:54 +0530</pubDate>
+      <guid>https://blackpiratex.com/blog/nextdns-review/</guid>
+      <description>&lt;h2 id=&#34;what-is-dns&#34;&gt;What is DNS?&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The Domain Name System is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. It associates various information with domain names assigned to each of the participating entities.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;what-is-nextdns&#34;&gt;What is NextDNS?&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;NextDNS is a dns service which lets you block sites at dns level. That means it can block ads and trackers. Which is the main selling point of this service.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://blackpiratex.com/img/nextdns-logo.png&#34; alt=&#34;nextdns-logo&#34; &gt;
+In simpler words it&amp;rsquo;s phone book of the internet.&lt;/p&gt;
+&lt;h2 id=&#34;my-experience&#34;&gt;My Experience&lt;/h2&gt;
+&lt;p&gt;I have been using NextDNS for almost few months now. Yes I&amp;rsquo;ve been using their free plan. Which is more than enough for me. My experience with NextDNS is very positive. Once I set it up and did all the testing it never disappointed me.&lt;/p&gt;
+&lt;h3 id=&#34;convenient&#34;&gt;Convenient&lt;/h3&gt;
+&lt;p&gt;NextDNS is pretty convinient way to block ads. In privacy section there&amp;rsquo;s option to add well known adblocker blocklist. And it&amp;rsquo;s as easy it gets. After setting up your configuration you can easily change your dns setings in your operating system.
+For more setup guide you can scroll down on their website and check their guides.&lt;/p&gt;
+&lt;h3 id=&#34;first-time-setup&#34;&gt;First Time Setup&lt;/h3&gt;
+&lt;p&gt;Setting up for the first time is easy, but it night be a bit hard for non techie people. At first I was also having trouble finding out how to whitelist certain site. Also if you select all the adblock filters you might have some issues on certain sites. For example in my case my youtube app wasn&amp;rsquo;t recording history. Then I had to disable few adblock list.&lt;/p&gt;
+&lt;h3 id=&#34;security&#34;&gt;Security&lt;/h3&gt;
+&lt;p&gt;As far as I know NextDNS is pretty secure. They had option for 2step verification.&lt;/p&gt;
+&lt;h3 id=&#34;privacy&#34;&gt;Privacy&lt;/h3&gt;
+&lt;p&gt;Default privacy settings are crappy on NextDNS. But the good thing is that they let you change the default settings. By default it logs everything. I recommend you to disable logs and clear logs right now if you haven&amp;rsquo;t done it already. Also NextDNS requires an email adress which you can easily fake using temp mail or alias.
+In NextDNS you can link IP. Which is not good for privacy so wouldn&amp;rsquo;t recommend using that feature.&lt;/p&gt;
+&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;
+&lt;p&gt;NextDNS is feature packed. It&amp;rsquo;s like having your own pi hole.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Pi-hole or Pihole is a Linux network-level advertisement and Internet tracker blocking application which acts as a DNS sinkhole and optionally a DHCP server, intended for use on a private network.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;In NextDNS you can add different types of blocklist to block ads and trackers. Sadly they won&amp;rsquo;t allow you to choose to add your own blacklist. But in Denylist you can choose to block certain domain but sadly it won&amp;rsquo;t be possible to block a lot of domains at once.
+&lt;img src=&#34;https://blackpiratex.com/img/nextdns-2.png&#34; alt=&#34;features&#34; &gt;
+Their parental control feature is also awesome. It lets you block popular social media apps and websites in single click. Also there&amp;rsquo;s an option for recreation time which will allow those blocked sites for certain periods of time on certain days of the week.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Recreation time: Set a period for each day of the week during which some of the websites, apps, games or categories above will not be blocked — e.g. allow Facebook on Mondays and Tuesdays between 6pm and 8pm.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;You can also turn on safesearch by default, block age restricted videos on youtube and block bypass methods like vpn. I&amp;rsquo;m not sure how effective they&amp;rsquo;re, but at least it&amp;rsquo;s nice to have the option.
+In analytics section you can see the analytics of that dns. Keep in mind that it only works if you have turned on logs.
+NextDNS works on different types of DNS protocol like DNS over HTTPS, DNS over TLS.&lt;/p&gt;
+&lt;h3 id=&#34;pricing&#34;&gt;Pricing&lt;/h3&gt;
+&lt;p&gt;NextDNS free version is enough for me, (it gives you 300k dns queries) and also be enough for most people. But they also have paid plans which is a bit expensive where I live. Overall I&amp;rsquo;ll say it&amp;rsquo;s good for most people.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Overall for anyone who&amp;rsquo;s looking for dns based adblocking solution NextDNS should be good enough for most of the people. Its convinient to set up (usually takes few mins), easy to manage and their free plan is actually useable. But for people who don&amp;rsquo;t want to trust a central company for all their internet traffic pi hole would be the way to go.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If you have anything to comment about this post, you can mail me at &lt;a href=&#34;mailto:comments@blackpiratex.com&#34;&gt;comments@blackpiratex.com&lt;/a&gt;, I&amp;rsquo;ll be waiting for your email.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
